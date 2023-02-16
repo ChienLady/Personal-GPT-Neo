@@ -1,0 +1,7 @@
+# File
+.env
+*.exe
+
+# Directory
+__pycache__/
+
