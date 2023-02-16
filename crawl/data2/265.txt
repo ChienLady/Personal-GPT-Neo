@@ -1,0 +1,20 @@
+Bài viết: Bản đồ
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Bản đồ là hình thu nhỏ tương đối chính xác về một khu vực hay cả Trái Đất. Bản vẽ đơn giản miêu tả một không gian, địa điểm và hiển thị những thông số liên quan trực tiếp đến vị trí ấy có liên quan đến khu vực xung quanh.
+Theo các nhà khoa học: Bản đồ là sự miêu tả khái quát, thu nhỏ bề mặt Trái Đất hoặc bề mặt thiên thể khác trên mặt phẳng trong một phép chiếu xác định, nội dung của bản đồ được biểu thị bằng hệ thống ký hiệu quy ước.
+Bản đồ thường dùng nhất trong địa lý. Theo nghĩa này bản đồ thường có hai chiều mà vẫn biểu diễn một không gian có ba chiều đúng đắn. Môn bản đồ là khoa học và nghệ thuật vẽ bản đồ.
+Bản đồ còn là một khái niệm được sử dụng trong sinh học để biểu thị một hệ thống nào đó, ví dụ như bản đồ gen.
+Tỉ lệ của một bản đồ địa lý là tỉ số giữa một khoảng cách đo trên bản đồ và khoảng cách ngoài thực địa.
+Chẳng hạn, nếu 1 cm trên bản đồ ứng với 1 km ngoài thực địa thì bản đồ đó có tỉ lệ 1:100000, vì 1 km = 100000 cm.
+Ký hiệu của tỉ lệ có dạng 1:M, trong đó số M chỉ khoảng cách thực tế lớn gấp bao nhiêu lần khoảng cách tương ứng đo trên bản đồ.
+Bản đồ có tỉ lệ lớn thì càng chi tiết và tương ứng với số M nhỏ. Bản đồ tỉ lệ nhỏ kém chi tiết hơn và có số M lớn.
+Bản đồ hay tạo bản đồ là nghiên cứu và thực hành tạo các hình ảnh đại diện của Trái đất trên một bề mặt phẳng, và người tạo bản đồ được gọi là người vẽ bản đồ .
+Bản đồ đường bộ có lẽ là bản đồ được sử dụng rộng rãi nhất hiện nay và tạo thành một tập hợp con các bản đồ hàng hải, bao gồm các biểu đồ hàng không và hải lý , bản đồ mạng lưới đường sắt, bản đồ đi bộ đường dài và đi xe đạp. Về số lượng, số lượng lớn nhất các tờ bản đồ được vẽ có lẽ được tạo thành từ các cuộc khảo sát địa phương, do các thành phố , cơ quan quản lý,cơ quan thuế, nhà cung cấp dịch vụ khẩn cấp và các cơ quan địa phương khác thực hiện. Nhiều dự án khảo sát quốc gia đã được quân đội thực hiện, chẳng hạn như Cơ quan khảo sát vũ khí Anh : một cơ quan chính phủ dân sự, nổi tiếng quốc tế về công việc chi tiết toàn diện.
+Ngoài thông tin vị trí, bản đồ cũng có thể được sử dụng để phác họa các đường đồng mức biểu thị các giá trị không đổi về độ cao , nhiệt độ , lượng mưa ,...
+Việc lập bản đồ các vùng lớn hơn, nơi không thể bỏ qua độ cong, yêu cầu các phép chiếu phải lập bản đồ từ bề mặt cong của Trái đất lên mặt phẳng. Không thể làm phẳng hình cầu xuống mặt phẳng không bị biến dạng có nghĩa là bản đồ không thể có tỷ lệ không đổi.
+Một số bản đồ, được gọi là bản đồ , có tỷ lệ bị bóp méo một cách cố ý để phản ánh thông tin khác với diện tích đất hoặc khoảng cách. Ví dụ, bản đồ châu Âu này (ở bên phải) đã bị bóp méo để hiển thị sự phân bố dân cư, trong khi hình dạng thô của lục địa vẫn có thể nhìn thấy rõ.
+Một ví dụ khác về tỷ lệ bị bóp méo là bản đồ London Underground nổi tiếng . Cấu trúc địa lý cơ bản được tôn trọng nhưng các tuyến ống (và sông Thames ) được làm nhẵn để làm rõ mối quan hệ giữa các trạm. Gần trung tâm của bản đồ, các trạm được đặt cách xa nhau hơn là gần các cạnh của bản đồ.
+Sự thiếu chính xác hơn nữa có thể là do cố ý. Ví dụ: các nhà lập bản đồ có thể đơn giản bỏ qua các cài đặt quân sự hoặc chỉ loại bỏ các đối tượng địa lý để nâng cao độ rõ ràng của bản đồ. Ví dụ: bản đồ đường có thể không hiển thị các tuyến đường sắt, đường thủy nhỏ hơn hoặc các đối tượng phi đường bộ nổi bật khác và ngay cả khi có, nó có thể hiển thị chúng kém rõ ràng hơn so với đường chính. Được gọi là khai báo, thực tiễn làm cho chủ đề mà người dùng quan tâm dễ đọc hơn, thường mà không ảnh hưởng đến độ chính xác tổng thể. Bản đồ dựa trên phần mềm thường cho phép người dùng chuyển đổi khai báo giữa BẬT, TẮT và TỰ ĐỘNG nếu cần. Trong AUTO, mức độ khai báo được điều chỉnh khi người dùng thay đổi tỷ lệ được hiển thị.
+Bản đồ thế giới hoặc các khu vực rộng lớn thường là bản đồ 'chính trị' hoặc 'vật lý'.
+Ngoài ra còn có một số loại bản đồ:

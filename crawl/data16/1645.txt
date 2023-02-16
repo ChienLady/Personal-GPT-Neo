@@ -1,0 +1,11 @@
+Bài viết: Myr
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Chữ viết tắt myr, "triệu năm", là một đơn vị bằng 1000000 (tức là 1×106) năm, hoặc 31,536 giây.
+Myr được sử dụng phổ biến khi thuật ngữ thường được viết, chẳng hạn như trong khoa học và vũ trụ học về Trái đất. Myr đi chung với mya, là "triệu năm trước". Chúng cùng nhau tạo ra một hệ thống tham chiếu, từ một đến một số, một đến một vị trí cụ thể trong một hệ thống đánh số năm là thời gian trước hiện tại.
+Myr bị phản đối trong Địa chất học, nhưng trong thiên văn học, myr được coi là tiêu chuẩn. Khi "myr" được dùng trong địa chất, nó thường được viết là "Myr" (một đơn vị của mega năm). Trong thiên văn học, nó thường là "Myr" (triệu năm).
+Trong địa chất, cuộc tranh luận cả thiên niên kỷ liên quan đến việc sử dụng myr, vẫn còn bỏ ngỏ liên quan đến "việc sử dụng Myr cùng với Mya" hay "chỉ sử dụng Mya".[1] Trong cả hai trường hợp, thuật ngữ "Ma được sử dụng trong tài liệu địa chất tuân theo tiêu chuẩn ISO 31-1 (hiện là ISO 80000-3) và tiêu chuẩn NIST 811 được đề xuất sử dụng. Văn phong địa chất học truyền thống viết là.
+Kỷ Phấn trắng bắt đầu 145 Ma và kết thúc 66 Ma, kéo dài trong 79 Myr.
+"Trước đây" có ý bao hàm, do đó, bất kỳ số năm "X Ma" nào trong khoảng từ 66 đến 145 là "Phấn trắng", vì lý do chính đáng. Nhưng có các phản biện là việc có "myr trong một khoảng thời gian và Mya trong một thời đại gây lẫn lộn với các hệ thống đơn vị và lỗi viết hoa: "triệu" không cần phải viết hoa, nhưng "mega" phải được; "Ma" về mặt kỹ thuật có nghĩa là milliyear (một phần nghìn của một năm, hoặc 8 giờ). Về phía tranh luận này, người ta tránh myr và chỉ cần thêm trước một cách rõ ràng (hoặc thêm BP), như trong
+Kỷ Phấn trắng bắt đầu 145 Ma trước và kết thúc 66 Ma trước, kéo dài 79 Ma.
+Trong trường hợp này, "79 Ma" có nghĩa là chỉ một thời gian 79 triệu năm, không có nghĩa là "79 triệu năm trước".

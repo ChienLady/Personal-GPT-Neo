@@ -1,0 +1,10 @@
+Bài viết: Động cơ vĩnh cửu
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Động cơ vĩnh cửu là một thiết bị cơ khí, với hy vọng là động cơ này tự hoạt động mãi mãi mà không cần cung cấp năng lượng.
+"Bánh xe không cân bằng". Phương án dựa trên ý tưởng quả cầu bên phải luôn cách xa tâm quay hơn quả cầu bên trái nên có mô men quay lớn hơn và do đó, sẽ luôn kéo bánh xe quay về bên phải. Nhưng sai lầm ở đây là chưa tính tuy mô men của từng quả cầu bên phải lớn hơn, nhưng số lượng quả cầu bên trái lại nhiều hơn, do đó tổng mô men 2 bên là cân bằng-nghĩa là bánh xe vẫn đứng yên.
+Hệ thống máy phát điện với dây chuyền nam châm nổi
+Hệ thống máy phát điện với dây chuyền nam châm nổi
+Hệ thống máy phát điện với dây chuyền nam châm nổi
+Động cơ năng lượng từ tính liên tục chuyển động
+Hoạt hình của một động cơ vĩnh cửu di động đơn giản và không thể thực hiện được

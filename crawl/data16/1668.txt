@@ -1,0 +1,5 @@
+Bài viết: Nguyên tắc bất ngờ nhỏ nhất
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Nguyên tắc bất ngờ nhỏ nhất (tiếng Anh: Principle of least astonishment) áp dụng cho thiết kế giao diện, thiết kế phần mềm và khoa học lao động. Nguyên tắc phát biểu rằng khi hai thành phần giao diện xung đột hoặc nhập nhằng, hành vi của chúng phải gây bất ngờ ít nhất cho người sử dụng. Đặc biệt, một lập trình viên nên nghĩ về hành vi gây ít bất ngờ nhất cho người sử dụng chương trình chứ không phải suy ra từ hiểu biết về hành vi nội tại của chương trình.[1]
+Quy tắc này bao gồm việc áp dụng các giá trị mặc định hợp lý.

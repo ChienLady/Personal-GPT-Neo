@@ -1,0 +1,8 @@
+Bài viết: Bản mẫu:Lang-tr
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Bản mẫu {{Lang-tr}} cho biết rằng thuật ngữ dẫn trước được dịch từ một ngoại ngữ (ISO 639:). Thuật ngữ trong ngoại ngữ này được đưa vào tham số thứ nhất.
+Bản mẫu này thường được đặt sau bản dịch tiếng Anh của thuật ngữ hoặc cụm từ có nguồn gốc nước ngoài, và có chứa thuật ngữ hoặc cụm từ nước ngoài.
+Tham số |links=no sẽ chặn việc chèn liên kết trong tên ngôn ngữ.
+Sửa đổi
+Kết quả

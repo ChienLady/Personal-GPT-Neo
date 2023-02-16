@@ -1,0 +1,41 @@
+Bài viết: Tụ điện
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+
+Tụ điện là một loại linh kiện điện tử thụ động, là một hệ hai vật dẫn và ngăn cách nhau bởi một lớp cách điện. Khi có chênh lệch điện thế tại hai bề mặt, tại các bề mặt sẽ xuất hiện điện tích cùng điện lượng nhưng trái dấu.[1]
+Sự tích tụ của điện tích trên hai bề mặt tạo ra khả năng tích trữ năng lượng điện trường của tụ điện. Khi chênh lệch điện thế trên hai bề mặt là điện thế xoay chiều, sự tích luỹ điện tích bị chậm pha so với điện áp, tạo nên trở kháng của tụ điện trong mạch điện xoay chiều.
+Về mặt lưu trữ năng lượng, tụ điện có phần giống với ắc qui. Mặc dù cách hoạt động của chúng thì hoàn toàn khác nhau, nhưng chúng đều cùng lưu trữ năng lượng điện. Ắc qui có 2 cực, bên trong xảy ra phản ứng hóa học để tạo ra electron ở cực này và chuyển electron sang cực còn lại. Tụ điện thì đơn giản hơn, nó không thể tạo ra electron - nó chỉ lưu trữ chúng. Tụ điện có khả năng nạp và xả rất nhanh. Đây là một ưu thế của nó so với ắc qui.
+Vào tháng 10 năm 1745, nhà vật lý học Ewald Georg von Kleist ở Pomerania, nước Đức, phát hiện ra điện tích có thể được lưu trữ bằng cách nối máy phát tĩnh điện cao áp với một đoạn dây qua một bình thủy tinh chứa nước.[2] Tay của Von Kleist và nước đóng vai trò là chất dẫn điện, và bình thủy tinh là chất cách điện (mặc dù các chi tiết ở thời điểm đó được xác nhận là miêu tả chưa đúng). Von Kleist phát hiện thấy khi chạm tay vào dây dẫn thì phát ra một tia lửa điện lớn và sau đó ông cảm thấy rất đau, đau hơn cả khi chạm tay vào máy phát tĩnh điện. Sau đó một năm, nhà vật lý người Hà Lan Pieter van Musschenbroek làm việc tại đại học Leiden, phát minh ra một bình tích điện tương tự, được đặt tên là bình Leyden.[3]
+Sau đó Daniel Gralath là người đầu tiên kết hợp nhiều bình tích điện song song với nhau thành một quả "pin" để tăng dung lượng lưu trữ. Benjamin Franklin điều tra chiếc bình Leyden và đi đến kết luận rằng điện tích đã được lưu trữ trên chiếc bình thủy tinh, không phải ở trong nước như những người khác đã giả định. Từ đó, thuật ngữ "battery" hay Tiếng Việt gọi là "pin" được thông qua.[4] Sau đó, nước được thay bằng các dung dịch hóa điện, bên trong và bên ngoài bình Layden được phủ bằng lá kim loại. Để lại một khoảng trống ở miệng để tránh tia lửa điện giữa các lá. Bình layden là bình tích điện đầu tiên có điện dung khoảng 1,11 nF (nano Farad).
+Các tham số chính của tụ điện có điện dung danh định, điện áp và nhiệt độ làm việc cao nhất.
+Ngoài ra là các tham số tinh tế, dành cho người thiết kế hay sửa chữa thiết bị chính xác cao: Hệ số biến đổi điện dung theo nhiệt độ, độ trôi điện dung theo thời gian, độ rò điện, dải tần số làm việc, tổn hao điện môi, tiếng ồn,... và thường được nêu trong Catalog của linh kiện.
+Vật thể nói chung đều có khả năng tích điện, và khả năng này đặc trưng bởi điện dung 
+
+
+
+C
+
+
+{\displaystyle C}
+
+, xác định tổng quát qua điện lượng theo biểu thức:
+Trong đó:
+Trong tụ điện thì điện dung phụ thuộc vào diện tích bản cực, vật liệu làm chất điện môi và khoảng cách giữ hai bản cực theo công thức:
+Trong đó:
+Đơn vị của đại lượng điện dung là Fara [F]. Trong thực tế đơn vị Fara là trị số rất lớn, do đó thường dùng các đơn vị đo nhỏ hơn như micro Fara (1µF=10−6F), nano Fara (1nF=10−9F), picoFara (1pF=10−12F).
+Thông thường do sự lão hóa vật liệu mà nhiều loại tụ có điện dung giảm theo thời gian. Các tụ hóa có mức độ giảm lớn nhất, và thường gọi là "già cỗi". Nó dẫn đến sai lệch hoạt động của mạch điện tử.
+Tụ điện được đặc trưng bởi thông số điện áp làm việc cao nhất và được ghi rõ trên tụ nếu có kích thước đủ lớn. Đó là giá trị điện áp thường trực rơi trên tụ điện mà nó chịu đựng được. Giá trị điện áp tức thời có thể cao hơn điện áp này một chút, nhưng nếu quá cao, ví dụ bằng 200% định mức, thì lớp điện môi có thể bị đánh thủng, gây chập tụ.
+Trước đây giá thành sản xuất tụ điện cao, nên tụ có khá nhiều mức điện áp làm việc: 5V, 10V, 12V, 16V, 24V, 25V, 35V, 42V, 47V, 56V, 100V, 110V, 160V, 180V, 250V, 280V, 300V, 400V...
+Ngày nay các dây chuyền lớn sản xuất và cho ra ít cấp điện áp hơn thế:
+Khi thiết kế hoặc sửa chữa mạch, phải chọn tụ có điện áp làm việc cao hơn điện áp mạch cỡ 30% trở lên. Ví dụ trong mạch lọc nguồn 12V thì chọn tụ hóa 16V, chứ không dùng tụ có điện áp làm việc đúng 12V.
+Nhiệt độ làm việc của tụ điện thường được hiểu là nhiệt độ ở vùng đặt tụ điện khi mạch điện hoạt động. Tụ điện phải được chọn với nhiệt độ làm việc cao nhất cao hơn nhiệt độ này.
+Thông thường nhiệt độ được thiết lập do tiêu tán điện năng biến thành nhiệt của mạch, cộng với nhiệt do môi trường ngoài truyền vào nếu nhiệt độ môi trường cao hơn.
+Song với các tụ có mức rò điện cao, thì xảy ra sự tiêu tán điện năng biến thành nhiệt trong tụ điện, làm cho nhiệt độ trong tụ điện cao hơn xung quanh. Các hư hỏng nổ tụ thường liên quan đến hiện tượng này. Các tụ hóa thường có rò điện ohmic, còn các tụ tần cao thì có dòng điện xoáy.
+Có rất nhiều loại.[1]
+Hầu hết tụ hóa là tụ điện phân cực, tức là nó có cực xác định. Khi đấu nối phải đúng cực âm - dương.
+Trị số của tụ phân cực vào khoảng 0,47μF - 4.700μF, thường dùng trong các mạch tần số làm việc thấp, dùng lọc nguồn.
+Tụ điện không phân cực thì không xác định cực dương âm, như tụ giấy, tụ gốm, tụ mica,... Các tụ có trị số điện dung nhỏ hơn 1 μF thường được sử dụng trong các mạch điện tần số cao hoặc mạch lọc nhiễu. Các tụ cỡ lớn, từ một vài μF đến cỡ Fara thì dùng trong điện dân dụng (tụ quạt, mô tơ,...) hay dàn tụ bù pha cho lưới điện.
+Một số tụ hóa không phân cực cũng được chế tạo.
+Tụ điện có trị số biến đổi, hay còn gọi tụ xoay (cách gọi theo cấu tạo), là tụ có thể thay đổi giá trị điện dung. Tụ này thường được sử dụng trong kỹ thuật Radio để thay đổi tần số cộng hưởng khi ta dò đài (kênh tần số).
+Đó là các tụ có mật độ năng lượng cực cao (supercapacitor) như Tụ điện Li ion (tụ LIC), là tụ phân cực và dùng cho tích điện một chiều. Chúng có thể trữ điện năng cho vài tháng, cấp nguồn thay các pin lưu dữ liệu trong các máy điện tử.
+Khả năng phóng nạp nhanh và chứa nhiều năng lượng hứa hẹn ứng dụng tụ này trong giao thông để khai thác lại năng lượng hãm phanh (thắng), cung cấp năng lượng đỉnh đột xuất cho ô tô điện, tàu điện, tàu hoả nhanh,...[5]

@@ -1,0 +1,5 @@
+Bài viết: Joule
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Joule (còn viết là Jun[1]), ký hiệu J, là đơn vị đo công A trong hệ SI, lấy tên theo nhà vật lý người Anh James Prescott Joule.
+Đơn vị J có thể được định nghĩa theo nhiều cách khác nhau, 1 Jun là năng lượng thực hiện khi có một lực 1 niutơn tác dụng lên vật thể làm vật thể và điểm đặt lực lên vật thể chuyển động được 1 mét, hoặc có thể định nghĩa là 1 giây thực hiện công với công suất 1 oát.

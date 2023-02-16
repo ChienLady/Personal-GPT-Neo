@@ -1,0 +1,17 @@
+Bài viết: Proton
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Proton (ký hiệu p hay p+; tiếng Hy Lạp: πρώτον nghĩa là "đầu tiên"; tiếng Việt: prô tông) là 1 loại hạt tổ hợp, hạt hạ nguyên tử và là 1 trong 2 loại hạt chính cấu tạo nên hạt nhân của nguyên tử (hạt còn lại là neutron). Bản thân 1 hạt proton được cấu tạo thành từ 3 hạt quark nhỏ hơn (2 quark lên và 1 quark xuống), vì vậy proton mang điện tích +1e hay +1.602 ×10−19 coulomb.
+Có spin bán nguyên, proton là fermion. Cấu thành từ 3 quark, proton là baryon.
+Khối lượng 1.6726 ×10−27 kg xấp xỉ bằng khối lượng hạt neutron và gấp 1836 lần khối lượng hạt electron.
+Trong nguyên tử trung hòa về điện tích, số lượng hạt proton trong hạt nhân đúng bằng số lượng hạt electron của lớp vỏ nguyên tử.
+Số proton trong nguyên tử của 1 nguyên tố đúng bằng số điện tích hạt nhân của nguyên tố đó, và được chọn làm cơ sở để xây dựng bảng tuần hoàn.
+Proton và neutron được gọi là nucleon. Đồng vị phổ biến nhất của nguyên tử hydro là 1 proton riêng lẻ (không có neutron nào). Hạt nhân của các nguyên tử khác nhau tạo thành từ số các proton và neutron khác nhau. Số proton trong hạt nhân xác định tính chất hóa học của nguyên tử và xác định nên nguyên tố hóa học.
+Proton là 1 loại hạt ổn định. Tuy nhiên chúng có thể biến đổi thành neutron thông qua quá trình bắt giữ electron. Quá trình này không xảy ra 1 cách tự nhiên mà cần có năng lượng.
+p+ + e− → n + ve
+Quá trình này có thể đảo ngược: các neutron có thể chuyển thành proton qua phân rã bêta.
+Theo lý thuyết thống nhất lớn, phân rã proton phải xảy ra, tuy nhiên đến nay các thí nghiệm cho thấy thời gian sống của proton ít nhất là 1035 năm.
+Trong hóa học và hóa sinh, proton được xem là ion hydro, ký hiệu là H+. 1 chất cho proton là axit và nhận proton là base.
+Ernest Rutherford được xem là người đầu tiên khám phá ra proton. Năm 1918, Rutherford nhận thấy rằng khi các hạt alpha bắn vào hơi nitơ, máy đo sự nhấp nháy chỉ ra dấu hiệu của hạt nhân hydro. Rutherford tin rằng hạt nhân hydro này chỉ có thể đến từ nitơ, và vì vậy nitơ phải chứa hạt nhân hydro. Từ đó ông cho rằng hạt nhân hydro, có số nguyên tử 1, là 1 hạt sơ cấp.
+Trước Rutherford, Eugen Goldstein đã quan sát tia a nốt, tia được tạo thành từ các ion mang điện dương. Sau khi Joseph John Thomson khám phá ra electron, Goldstein cho rằng vì nguyên tử trung hòa về điện nên phải cố hạt mang điện dương trong nguyên tử và đã cố tìm ra nó. Ông đã dùng canal ray để quan sát những dòng hạt chuyển dời ngược chiều với dòng electron trong ống tia âm cực. Sau khi electron được loại ra khỏi ống tia âm cực, những hạt này được nhận thấy là mang điện dương và di chuyển về cực âm.
+Phản hạt của proton được gọi là phản proton. Phản Proton là hạt có khối lượng bằng khối lượng proton nhưng mang điện tích âm. Những hạt này được phát hiện vào năm 1955 bởi Emilio Gino Segrè và Owen Chamberlain và họ đã nhận giải Nobel vật lý năm 1959 nhờ công trình này.

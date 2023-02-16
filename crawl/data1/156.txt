@@ -1,0 +1,16 @@
+Bài viết: Vàng (màu)
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+#FFFF00
+Màu vàng (yellow) (cũng gọi là màu Vàng tươi để phân biệt với Vàng kim và Vàng cam) là màu sắc của ánh sáng tác động đều lên hai loại tế bào cảm thụ màu đỏ và tế bào cảm thụ màu lục và rất yếu lên tế bào cảm thụ màu lam của mắt người.
+Đa số người thấy màu này khi nhìn vào hình bên.
+Màu vàng là màu của ánh sáng không đơn sắc có bước sóng nằm trong khoảng từ 566nm tới 590 nm.
+Theo định nghĩa, một số hỗn hợp đều của ánh sáng màu đỏ và xanh lá cây tạo nên cảm giác màu vàng.
+Màu vàng là một trong số các màu gốc trong hệ màu CMY (hay CMYK, dùng trong in ấn, sơn, nhuộm...), và màu bù của nó là màu xanh lam của hệ màu RGB. Tuy nhiên, vì các đặc trưng của các chất màu hay sơn sử dụng trong quá khứ,các thợ sơn hay họa sĩ thông thường nói tới phần bù của nó là màu tía.
+Phần này có thể chứa đựng một lượng văn hoá Anh Mỹ thiên lệch,do dịch từ trang tiếng Anh. Nếu có thể xin bạn giúp sửa chữa
+'Số Hex = #FFFF00
+RGB (r, g, b) = (255, 255, 0)
+CMYK (c, m, y, k) = (0, 0, 100, 0)
+HSV (h, s, v) = (60, 100, 100)
+Từ vàng trong tiếng Việt bắt nguồn từ từ tiếng Hán thượng cổ 黃 (có nghĩa là màu vàng).[2] William H. Baxter và Laurent Sagart phục nguyên âm tiếng Hán thượng cổ của từ 黃 là /*N-kʷˤaŋ/. Chữ Hán 黃 có âm Hán Việt là hoàng.[3]
+Tia Gamma · Tia X · Tử ngoại · Nhìn thấy được · Hồng ngoại · Bức xạ terahertz · Vi ba · Vô tuyến

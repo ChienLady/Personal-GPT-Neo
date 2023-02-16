@@ -1,0 +1,11 @@
+Bài viết: UTC+14:00
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+UTC+14 là múi giờ ngay phía tây của Đường đổi ngày quốc tế, và vì thế là phần đầu tiên của Trái đất bắt đầu mỗi ngày mới.
+Nó được Kiritimati (Đảo Giáng Sinh) và các đảo khác của Kiribati thuộc Quần đảo Line sử dụng.
+Cộng hòa Kiribati nằm ở trung tâm Thái Bình Dương đã thay đổi ngày cho nửa phía đông vào ngày 31 tháng 12 năm 1994, từ múi giờ UTC-11:00 và UTC-10:00 sang UTC+13:00 và UTC+14:00. Trước đó, múi giờ UTC+13:00 và UTC+14:00 chưa tồn tại. Là một thuộc địa của Anh, Kiribati nằm ở trung tâm của Quần đảo Gilbert, ngay phía tây của đường đổi ngày cũ. Quần đảo Phoenix và Line xa xôi nằm ở phía bên kia đường đổi ngày. Các văn phòng chính phủ ở hai bên đường đổi ngày chỉ có thể liên lạc bằng radio hoặc điện thoại vào bốn ngày trong tuần khi cả hai bên trải qua các ngày trong tuần đồng thời.
+Việc thay đổi múi giờ của Kiribati có nghĩa là đường đổi ngày có hiệu lực di chuyển về phía đông để đi quanh đất nước này, do đó Quần đảo Line, bao gồm cả đảo Kiritimati có người sinh sống, bắt đầu năm 2000 trên lãnh thổ của mình trước bất kỳ quốc gia nào khác trên Trái đất, một đặc điểm Chính phủ Kiribati đã tận dụng như một điểm thu hút khách du lịch tiềm năng.[1]
+Tonga - Tên khu vực cơ sở dữ liệu múi giờ của IANA là Thái Bình Dương / Tongatapu - đã sử dụng múi giờ UTC+14:00 làm giờ mùa hè từ năm 1999 đến năm 2002 và năm 2016 đến năm 2017[2] và do đó đón năm 2000 cùng lúc với Quần đảo Line ở Kiribati.
+Vào cuối ngày 29 tháng 12 năm 2011 (UTC-10:00), Samoa đã điều chỉnh múi giờ chuẩn từ UTC-11:00 sang UTC+13:00 (và giờ mùa hè từ UTC-10:00 sang UTC+14:00), về cơ bản là di chuyển đường đổi ngày quốc tế sang phía bên kia của đất nước và bỏ qua ngày 30 tháng 12 năm 2011.[3][4]
+Alaska (Mỹ thuộc Nga) có giờ địa phương tương ứng từ UTC+11:30 đến UTC+15:10 cho đến năm 1867 (trừ 24 giờ vào năm 1867 để tương ứng với phần còn lại của Hoa Kỳ). Những thời điểm này là giờ địa phương và không phải múi giờ.
+UTC+14:00 được dùng làm giờ mùa hè trước năm 1982 ở các vùng phía đông nước Nga (Chukotka) sử dụng Giờ Anadyr.

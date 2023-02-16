@@ -1,0 +1,400 @@
+Bài viết: Số tự nhiên
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Trong toán học, các số tự nhiên được sử dụng để đếm (như trong "có sáu đồng xu trên bàn") và thứ tự (như trong "đây là thành phố lớn thứ ba trong cả nước"). Đôi khi, các số tự nhiên có thể xuất hiện dưới dạng một bộ mã thuận tiện (nhãn hoặc "tên"), nghĩa là, như những gì các nhà ngôn ngữ học gọi là số danh nghĩa, loại bỏ nhiều hoặc tất cả các thuộc tính của một số theo nghĩa toán học. Tập hợp các số tự nhiên thường được kí hiệu bằng kí hiệu 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+.[1][2][3]
+Trong tiêu chuẩn của ISO 80000-2[4] và tài liệu giáo khoa chuẩn của Việt Nam[5], số tự nhiên được định nghĩa là các số nguyên không âm 0, 1, 2, 3,... (đôi khi được ký hiệu chung là biểu tượng 
+
+
+
+
+
+N
+
+
+0
+
+
+
+
+{\displaystyle \mathbb {N} _{0}}
+
+, để nhấn mạnh rằng số 0 cũng được bao gồm), trong khi những số khác bắt đầu bằng 1, tương ứng với các số nguyên dương 1, 2, 3,... (đôi khi được ký hiệu chung bằng ký hiệu 
+
+
+
+
+
+N
+
+
+1
+
+
+
+
+{\displaystyle \mathbb {N} _{1}}
+
+, 
+
+
+
+
+
+N
+
+
++
+
+
+
+
+{\displaystyle \mathbb {N} ^{+}}
+
+, hoặc 
+
+
+
+
+
+N
+
+
+∗
+
+
+
+
+{\displaystyle \mathbb {N} ^{*}}
+
+ với nhấn mạnh rằng số 0 bị loại trừ).[6][7]
+Các số tự nhiên là cơ sở mà từ đó nhiều tập hợp số khác có thể được xây dựng bằng cách mở rộng: tập hợp các số nguyên, được xây dựng bằng cách bao gồm (nếu chưa có) phần tử trung tính 0 và một phép cộng nghịch đảo ( − n ) cho mỗi số tự nhiên khác nhau n ; tập hợp các số hữu tỉ, bằng cách bao gồm một nghịch đảo phép nhân (1/n ) cho mỗi số nguyên khác n (và cả tích của các phép nghịch đảo này với các số nguyên); tập hợp các số thực bằng cách bao gồm với các số hữu tỉ các giới hạn của (hội tụ) dãy Cauchy của các số hữu tỉ; các số phức, bằng cách cộng với các số thực căn bậc hai chưa giải của trừ một (và cả tổng và tích của chúng),.... [a] [b] Những chuỗi mở rộng này làm cho các số tự nhiên được nhúng (nhận dạng) về mặt quy tắc trong các hệ thống số khác.[8]
+Các tính chất của số tự nhiên, chẳng hạn như tính chia hết và phân phối của các số nguyên tố, được nghiên cứu trong lý thuyết số. Các vấn đề liên quan đến việc đếm và sắp xếp thứ tự, chẳng hạn như phân vùng và liệt kê, được nghiên cứu trong tổ hợp.
+Theo ngôn ngữ thông thường, đặc biệt là trong giáo dục tiểu học, số tự nhiên có thể được gọi là số đếm[9] để loại trừ trực quan các số nguyên âm và số 0, và cũng để đối chiếu tính rời rạc của phép đếm với tính liên tục của phép đo - một đặc điểm nổi bật của số thực.
+Phương pháp nguyên thủy nhất để biểu diễn một số tự nhiên là đặt một ký hiệu cho mỗi đối tượng. Sau đó, một tập hợp các đối tượng có thể được kiểm tra xem có bằng nhau, thừa hay thiếu — bằng cách đánh dấu và xóa một đối tượng khỏi tập hợp đó.
+Bước tiến lớn đầu tiên trong trừu tượng hóa là việc sử dụng các chữ số để biểu diễn các con số. Điều này cho phép các hệ thống được phát triển để ghi số lượng lớn. Người Ai Cập cổ đại đã phát triển một hệ thống chữ số mạnh mẽ với các chữ tượng hình riêng biệt cho 1, 10 và tất cả các quyền hạn của 10 đến hơn 1 triệu. Một tác phẩm chạm khắc trên đá ở Karnak, có niên đại khoảng năm 1500 TCN và bây giờ là Bảo tàng Louvre ở Paris, mô tả 276 như 2 trăm, 7 chục và 6 đơn vị; và tương tự cho số 4,622. Người Babylon có một hệ thống giá trị vị trí về cơ bản dựa trên các chữ số cho 1 và 10, sử dụng cơ số sáu mươi, với biểu tượng cho 60 giống với biểu tượng cho 1 — giá trị cụ thể của nó được xác định từ ngữ cảnh.[13]
+Một tiến bộ nữa trong việc trừu tượng hóa con số nhưng diễn ra trễ hơn nhiều: phát triển ý tưởng thể hiện số không như là một con số với biểu diễn số của riêng nó. Vào khoảng 700 TCN, những người Babylon đã dùng chữ số không trong hệ thống ký hiệu giá trị theo vị trí nhưng một điều khá lạ là mãi cho đến lúc nền văn hóa Babylon đến hồi suy tàn, người Babylon cũng chỉ biết dùng chữ số không ở giữa các con số (ví dụ: khi viết số 3605 họ biết đặt chữ số không vào giữa), và chữ số này vẫn chưa bao giờ được sử dụng để làm chữ số cuối cùng của một số[14] (ví dụ: người Babylon thể hiện số 3600 và 60 như nhau - người Babylon dùng hệ cơ số 60 - để phân biệt đâu là 3600 và 60 họ phải kèm thêm một chú thích bằng lời ở dưới[15]). Các nền văn minh Olmec và Maya đã dùng số không như là một con số riêng từ khoảng thế kỷ thứ 1 TCN (dường như được phát triển một cách độc lập), tuy nhiên việc sử dụng này đã không được phổ biến ra ngoài vùng Trung Bộ châu Mỹ[16][17]. Khái niệm số không mà chúng ta hiện nay vẫn dùng xuất phát từ nhà toán học Ấn Độ Brahmagupta vào năm 628. Mặc dầu số không đã được dùng như một con số bởi tất cả các nhà tính toán thời Trung Cổ (dùng để tính ngày Phục Sinh) mà khởi đầu là Dionysius Exiguus vào năm 525, nhưng nhìn chung vẫn không có một chữ số La Mã nào được dành riêng để viết số không. Thay vì vậy, thời đó người ta dùng từ Latinh là nullae, có nghĩa là"không có gì"để chỉ số không.[18]
+Người ta thường xem các nhà triết học Hy Lạp Pythagore và Archimedes là những người đầu tiên đặt vấn đề nghiên cứu một cách hệ thống về các con số như là một thực thể trừu tượng. Tuy nhiên, cùng thời kỳ đó, một số nơi như Ấn Độ, Trung Quốc và Trung Bộ châu Mỹ cũng có những nghiên cứu độc lập tương tự.[19]
+Ở châu Âu thế kỷ 19, đã có cuộc thảo luận toán học và triết học về bản chất chính xác của các số tự nhiên. Một trường phái của chủ nghĩa tự nhiên tuyên bố rằng các số tự nhiên là hệ quả trực tiếp của tâm lý con người. Henri Poincaré là một trong những người ủng hộ nó, cũng như Leopold Kronecker, người đã tóm tắt niềm tin của mình là "Chúa tạo ra các số nguyên, tất cả những thứ khác là tác phẩm của con người". [c]
+Đối lập với các nhà Tự nhiên học, các nhà toán học kiến thiết thấy cần phải cải thiện tính chặt chẽ logic trong nền tảng của toán học. [d] Vào những năm 1860, Hermann Grassmann đề xuất một định nghĩa đệ quy cho các số tự nhiên, do đó nói rằng chúng không thực sự là tự nhiên - mà là hệ quả của các định nghĩa. Sau đó, hai lớp định nghĩa chính thức như vậy đã được xây dựng; về sau, chúng vẫn được chứng minh là tương đương trong hầu hết các ứng dụng thực tế.
+Các định nghĩa lý thuyết tập hợp về số tự nhiên được Frege khởi xướng. Ban đầu, ông định nghĩa một số tự nhiên là lớp của tất cả các tập hợp tương ứng 1-1 với một tập hợp cụ thể. Tuy nhiên, định nghĩa này hóa ra lại dẫn đến những nghịch lý, bao gồm cả nghịch lý Russell. Để tránh những nghịch lý như vậy, phép hình thức hóa đã được sửa đổi để một số tự nhiên được định nghĩa là một tập hợp cụ thể và bất kỳ tập hợp nào có thể được đưa vào tương ứng 1-1 với tập hợp đó được cho là có số phần tử đó.[22]
+Loại định nghĩa thứ hai được Charles Sanders Peirce đưa ra, được Richard Dedekind tinh chỉnh, và được Giuseppe Peano khám phá thêm; phương pháp này bây giờ được gọi là số học Peano. Nó dựa trên tiên đề về các tính chất của số thứ tự : mỗi số tự nhiên có một kế tiếp và mọi số tự nhiên khác 0 đều có một tiền nhiệm duy nhất. Số học Peano tương đương với một số hệ thống yếu của lý thuyết tập hợp. Một trong những hệ thống như vậy là ZFC với tiên đề về vô hạn được thay thế bằng sự phủ định của nó. Các định lý có thể được chứng minh trong ZFC nhưng không thể được chứng minh bằng cách sử dụng Tiên đề Peano bao gồm định lý Goodstein.[23]
+Với tất cả các định nghĩa qua tập hợp này, thật tiện lợi khi bao gồm cả số 0 (tương ứng với tập rỗng ) vào tập hợp số tự nhiên. Bao gồm cả số 0 hiện là quy ước chung giữa các nhà lý thuyết tập hợp[24] và các nhà logic học.[25] Các nhà toán học khác cũng bao gồm cả 0, và các ngôn ngữ máy tính thường bắt đầu từ 0 khi liệt kê các mục như bộ đếm vòng lặp và phần tử chuỗi hoặc mảng.[26][27] Mặt khác, nhiều nhà toán học đã giữ truyền thống cũ hơn để lấy 1 là số tự nhiên đầu tiên.[28]
+Các nhà toán học dùng ký hiệu N hay ℕ cho tập hợp tất cả các số tự nhiên[29][30][31]. Một số văn bản cũ cũng đôi khi dùng kí hiệu J cho tập hợp này.[32] Theo định nghĩa, tập hợp vô hạn và đếm được, tức lực lượng của tập hợp số tự nhiên là ℵ0
+Vì các thuộc tính khác nhau thường được liên kết với các mã thông báo 0 và 1 (tương ứng là các phần tử trung tính cho phép cộng và phép nhân), điều quan trọng là phải biết phiên bản số tự nhiên nào được sử dụng trong trường hợp đang xem xét. Điều này có thể được thực hiện bằng cách giải thích bằng văn xuôi, bằng cách viết ra tập hợp một cách rõ ràng hoặc bằng cách định danh số nhận dạng chung bằng chỉ số viết lên trên hoặc chỉ số viết xuống dưới,[33][34] chẳng hạn như thế này:
+{
+1
+,
+2
+,
+.
+.
+.
+}
+=
+
+
+N
+
+
+∗
+
+
+=
+
+
+N
+
+
++
+
+
+=
+
+
+N
+
+
+0
+
+
+∖
+{
+0
+}
+.
+
+
+{\displaystyle \{1,2,...\}=\mathbb {N} ^{*}=\mathbb {N} ^{+}=\mathbb {N} _{0}\smallsetminus \{0\}.}
+{
+0
+,
+1
+,
+2
+,
+.
+.
+.
+}
+=
+
+
+N
+
+
+0
+
+
+=
+
+
+N
+
+
+0
+
+
+=
+
+
+N
+
+
+∗
+
+
+∪
+{
+0
+}
+
+
+{\displaystyle \;\{0,1,2,...\}=\mathbb {N} _{0}=\mathbb {N} ^{0}=\mathbb {N} ^{*}\cup \{0\}}
+Đôi khi một số tác giả dùng chỉ số dưới hoặc chỉ số trên"+"để ám chỉ khái niệm"dương"của số tự nhiên, tức là N+ hay N+ = { 1, 2,... }. Thế nhưng, cần thận trọng với ký hiệu kiểu này, vì trong một số trường hợp khác, ít nhất là đối với trường phái toán châu Âu, ký hiệu này lại ám chỉ cho khái niệm"không âm", lấy ví dụ: R+ = [0,∞) hay Z+ = { 0, 1, 2,...}. Trong khi đó, ký hiệu * là chuẩn mực dùng cho khái niệm"khác số không"hay tổng quát hơn là dùng cho một phần tử có thể nghịch đảo được. Tài liệu giáo khoa chuẩn của Việt Nam[5], cũng dùng ký hiệu N*.
+{
+1
+,
+2
+,
+3
+,
+…
+}
+=
+{
+x
+∈
+
+Z
+
+:
+x
+>
+0
+}
+=
+
+
+Z
+
+
++
+
+
+
+
+{\displaystyle \{1,2,3,\dots \}=\{x\in \mathbb {Z} :x>0\}=\mathbb {Z} ^{+}}
+{
+0
+,
+1
+,
+2
+,
+…
+}
+=
+{
+x
+∈
+
+Z
+
+:
+x
+≥
+0
+}
+=
+
+
+Z
+
+
+0
+
+
++
+
+
+
+
+{\displaystyle \{0,1,2,\dots \}=\{x\in \mathbb {Z} :x\geq 0\}=\mathbb {Z} _{0}^{+}}
+Cho tập hợp 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+ của các số tự nhiên và hàm kế thừa 
+
+
+
+S
+:
+
+N
+
+→
+
+N
+
+
+
+{\displaystyle S\colon \mathbb {N} \to \mathbb {N} }
+
+ ánh xạ mỗi số tự nhiên cho một số tiếp theo, người ta có thể định nghĩa phép cộng các số tự nhiên một cách đệ quy bằng cách đặt a + 0 = a và a + S(b) = S(a + b) với mọi a, b. Khi đó (ℕ, +) là một monoid giao hoán với phần tử đơn vị là 0. Nó là một monoid tự do trên phần tử sinh là 1. Monoid giao hoán này thỏa mãn thuộc tính hủy bỏ, vì vậy nó có thể được nhúng trong một nhóm. Nhóm nhỏ nhất chứa các số tự nhiên là các số nguyên.
+Nếu 1 được xác định là S(0), thì b + 1 = b + S(0) = S(b + 0) = S(b). Có nghĩa là, b + 1 đơn giản là phần tử kế thừa của b.
+Trong lịch sử, quá trình đưa ra một định nghĩa toán học chính xác về số tự nhiên là một quá trình nhiều khó khăn. Các định đề Peano đưa ra những điều kiện tiên quyết cho một định nghĩa thành công về số tự nhiên. Một số phép xây dựng cho thấy rằng, với lý thuyết tập hợp đã biết, các mô hình của các định đề Peano chắc chắn tồn tại.
+Cần lưu ý rằng "0" ở định nghĩa trên không nhất thiết phải là số không mà chúng ta vẫn thường nói đến."0" ở đây chẳng qua là một đối tượng nào đó mà khi kết hợp với một hàm liền sau nào đó thì sẽ thỏa mãn các tiên đề Peano. Có nhiều hệ thống thỏa mãn các tiên đề này, trong đó có các số tự nhiên (bắt đầu bằng số không hay bằng số một).
+Trong lý thuyết tập hợp có một trường hợp đặc biệt của phép xây dựng von Neumann định nghĩa tập hợp số tự nhiên như sau:
+Khi ta thấy một số tự nhiên được dùng như là một tập hợp, thì thông thường, ý nghĩa của nó như được trình bày ở trên. Theo định nghĩa đó, có đúng n phần tử (theo nghĩa thông thường) trong tập n và n ≤ m (cũng theo nghĩa bình thường) khi và chỉ khi n là một tập con của m.
+Mặc dù phép xây dựng chuẩn thông dụng nhưng nó không phải là phép xây dựng duy nhất. Ví dụ về phép dựng của Zermalo:
+Hay chúng ta có thể định nghĩa 0 = {{ }}
+Có thể vẫn còn tranh cãi, nhưng nhìn chung người ta thường gán định nghĩa có tính lý thuyết tập hợp xưa nhất về số tự nhiên cho Frege và Russell. Trong định nghĩa của hai người này thì mỗi số tự nhiên n cụ thể được định nghĩa là tập hợp của tất cả các tập có n phần tử.
+Frege và Rusell bắt đầu bằng cách định nghĩa 0 là 
+
+
+
+{
+{
+}
+}
+
+
+{\displaystyle \{\{\}\}}
+
+ (rõ ràng đây là tập của tất cả các tập có 0 phần tử) và định nghĩa 
+
+
+
+σ
+(
+A
+)
+
+
+{\displaystyle \sigma (A)}
+
+ (với A là một tập bất kỳ) là 
+
+
+
+{
+x
+∪
+{
+y
+}
+∣
+x
+∈
+A
+∧
+y
+∉
+x
+}
+
+
+{\displaystyle \{x\cup \{y\}\mid x\in A\wedge y\not \in x\}}
+
+. Như vậy 0 sẽ là tập của tất cả các tập có 0 phần tử, 
+
+
+
+1
+=
+σ
+(
+0
+)
+
+
+{\displaystyle 1=\sigma (0)}
+
+ sẽ là tập của tất cả các tập có một phần tử, 
+
+
+
+2
+=
+σ
+(
+1
+)
+
+
+{\displaystyle 2=\sigma (1)}
+
+ sẽ là tập của tất cả các tập có 2 phần tử, và cứ thế. Sau đó, tập hợp của tất cả các số tự nhiên được định nghĩa như là phần giao của tất cả các tập có chứa 0 và là tập đóng với phép 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+ (tức là nếu tập này chứa phần tử n) thì nó cũng phải chứa 
+
+
+
+σ
+(
+n
+)
+
+
+{\displaystyle \sigma (n)}
+
+).
+Định nghĩa này sẽ không dùng được trong những hệ thống thông thường của lý thuyết tập hợp tiên đề vì những tập được tạo ra như vậy quá lớn (nó sẽ không dùng được trong bất kỳ lý thuyết tập hợp nào với tiên đề tách - separation axiom); nhưng định nghĩa này sẽ làm việc được trong Cơ sở Mới (New Foundations) (và trong các hệ thống tương thích với Cơ sở Mới) và trong một vài hệ thống của lý thuyết kiểu.
+Trong phần còn lại của bài này, chúng ta sử dụng phép xây dựng chuẩn đã mô tả ở trên.
+Các phép toán trên tập hợp các số tự nhiên có thể định nghĩa nhờ phép đệ quy như sau
+Nếu chúng ta ký hiệu S(0) là 1, khi đó b + 1 = b + S(0) = S(b + 0) = S(b); tức là, số liền sau của b chẳng qua là b + 1.
+Tương tự như phép cộng, chúng ta định nghĩa phép nhân × như sau
+Nếu chúng ta hiểu tập hợp số tự nhiên theo nghĩa"không có số 0"và"bắt đầu bằng số 1"thì các định nghĩa về phép + và × cũng vẫn thế, ngoại trừ sửa lại a + 1 = S(a) và a × 1 = a.
+Trong phần còn lại của bài này, chúng ta viết ab để ám chỉ tích a × b, và chúng ta cũng sẽ thừa nhận quy định về thứ tự thực hiện các phép toán.
+Chúng ta có thể định nghĩa một quan hệ thứ tự toàn phần trên tập số tự nhiên như sau:
+Cho hai số tự nhiên a, b và b ≠ 0. Xét tập hợp M các số tự nhiên p sao cho pb ≤ a. Tập này bị chặn nên có một phần tử lớn nhất, gọi phần tử lớn nhất của M là q. Khi đó bq ≤ a và b(q + 1) > a. Đặt r = a − bq. Khi đó ta có
+Có thể chứng minh rằng các số q và r là duy nhất. Số q được gọi là thương hụt (hay vắn tắt là thương), số r được gọi là số dư khi chia a cho b.
+Nếu r = 0 thì a = bq. Khi đó ta nói rằng a chia hết cho b hay b là ước của a, a là bội của b.
+Với hai hướng sử dụng như đã nêu ở phần giới thiệu, số tự nhiên trước hết được tổng quát hóa theo hai hướng sử dụng này: số thứ tự được dùng để mô tả vị trí của một phần tử trong một dãy sắp thứ tự và bản số dùng để xác định kích thước của một tập hợp nào đó.
+Trong trường hợp dãy hữu hạn hay tập hợp hữu hạn, cả hai cách sử dụng này thực chất là đồng nhất với nhau.

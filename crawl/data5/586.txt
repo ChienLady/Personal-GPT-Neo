@@ -1,0 +1,11 @@
+Bài viết: BGP
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+BGP, viết tắt của từ tiếng Anh Border Gateway Protocol, là giao thức tìm đường nòng cốt trên Internet. Nó hoạt động dựa trên việc cập nhật một bảng chứa các địa chỉ mạng (prefix) cho biết mối liên kết giữa các hệ thống tự trị (autonomous system, tập hợp các hệ thống mạng dưới cùng sự điều hành của một nhà quản trị mạng, thông thường là một nhà cung cấp dịch vụ Internet, ISP). BGP là một giao thức vector đường đi (path vector). Khác với các giao thức tìm đường khác như RIP (vector độ dài), OSPF (trạng thái liên kết), BGP chọn đường bằng một tập các chính sách và luật. Phiên bản BGP hiện nay là phiên bản 4, dựa trên RFC 4271.
+BGP hỗ trợ tìm đường liên vùng phi lớp (CIDR Classless Inter-Domain Routing) và dùng kỹ thuật kết hợp đường đi để giảm kích thước bảng tìm đường (ví dụ nếu một mạng chiếm 255 địa chỉ lớp C từ 203.162.0.0/24 - 203.162.254.0/24 thì chỉ dùng 1 địa chỉ 203.162.0.0/16 để định danh mạng)
+BGP được sử dụng thay thế cho EGP và xóa hẳn mạng xương sống NSFNET nhằm giúp cho Internet trở thành một hệ thống phân tán đúng nghĩa.
+Ngoài việc sử dụng BGP giữa các AS, BGP cũng có thể được sử dụng trong các mạng riêng quy mô lớn do OSPF không đáp ứng được. Một lý do khác là dùng BGP để hỗ trợ multihome.
+Đa số người sử dụng Internet thường không sử dụng BGP một cách trực tiếp. Chỉ có các nhà cung cấp dịch vụ Internet sử dụng BGP để trao đổi đường đi. BGP là một trong những giao thức quan trọng nhất đảm bảo tính kết nối của Internet.
+Các thiết bị tìm đường (router) sử dụng BGP kết nối từng cặp (peering) với nhau bằng cách thiết lập phiên làm việc trên giao thức TCP qua cổng 179. Phiên kết nối này được duy trì bằng việc gửi các thông điệp keep-alive 19 byte mỗi 60 giây (mặc định).
+Có bốn loại thông điệp BGP là open (mở phiên kết nối), update (thông báo hoặc rút lại một đường đi), notification (thông báo lỗi), keep-alive (duy trì phiên kết nối)
+BGP có 4 thông điệp kết nối

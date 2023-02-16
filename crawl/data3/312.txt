@@ -1,0 +1,294 @@
+Bài viết: Hệ nhị phân
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Hệ nhị phân (hay hệ đếm cơ số hai hoặc  mã nhị phân) là một hệ đếm dùng hai ký tự để biểu đạt một giá trị số, bằng tổng số các lũy thừa của 2. Hai ký tự đó thường là 0 và 1; chúng thường được dùng để biểu đạt hai giá trị hiệu điện thế tương ứng (có hiệu điện thế, hoặc hiệu điện thế cao là 1 và không có, hoặc thấp là 0). Do có ưu điểm tính toán đơn giản, dễ dàng thực hiện về mặt vật lý, chẳng hạn như trên các mạch điện tử, hệ nhị phân trở thành một phần kiến tạo căn bản trong các máy tính đương thời.
+Hệ nhị phân được nhà toán học cổ người Ấn Độ Pingala phác thảo từ thế kỷ thứ ba trước Công Nguyên.
+Một bộ trọn 8 hình bát quái với 64 hình sao sáu cạnh, tương đồng với 3 bit và 6 bit trong hệ số nhị phân, đã được ghi lại trong điển tịch cổ Kinh Dịch.
+Nhiều tổ hợp nhị phân tương tự cũng được tìm thấy trong hệ thống bói toán truyền thống của châu Phi, ví dụ như Ifá, và trong môn bói đất của phương Tây.
+Tổ hợp thứ tự của những hình sao sáu cạnh trong Kinh Dịch, đại diện cho một dãy số nguyên thập phân từ 0 đến 63, cùng với một công thức để sinh tạo dãy số ấy, đã được học giả và nhà triết học người Trung Hoa tên là Thiệu Ung (邵雍), thế kỷ 11, thiết lập. Dầu vậy, không có ghi chép nào để lại, thể hiện bằng chứng là Thiệu Ung thông hiểu cách tính toán, dùng hệ nhị phân.
+Trong thế kỷ 17, nhà triết học người Đức tên là Gottfried Leibniz đã ghi chép lại một cách trọn vẹn hệ thống nhị phân trong bài viết "Giải thích về thuật toán trong hệ nhị phân" (Explication de l'Arithmétique Binaire). Hệ thống số mà Leibniz dùng chỉ bao gồm số 0 và số 1, tương đồng với hệ số nhị phân đương đại.[1]
+Năm 1854, nhà toán học người Anh, George Boole đã cho xuất bản một bài viết chi tiết về một hệ thống lôgic mà sau này được biết là đại số Boole, đánh dấu một bước ngoặt trong lịch sử toán học. Hệ thống lôgic của ông đã trở thành nền tảng trong việc kiến tạo hệ nhị phân, đặc biệt trong việc thực thi hệ thống này trên bảng điện tử.[2]
+Vào năm 1937, nhà toán học và kỹ sư điện tử người Mỹ, Claude Elwood Shannon, viết một luận án cử nhân tại MIT, trình bày phương thức kiến tạo hệ thống đại số Boole và số học nhị phân dùng các rơ-le và công tắc lần đầu tiên trong lịch sử. Bài viết với đầu đề "Bản phân tích tượng hình của mạch điện dùng rơ-le và công tắc" (A Symbolic Analysis of Relay and Switching Circuits). Bản luận án của ông đã được chứng minh là có tính khả thi trong việc thiết kế mạch điện kỹ thuật số.[3]
+Tháng 11 năm 1937, ông George Stibitz, lúc đó đang làm việc tại Bell Labs, hoàn thành việc thiết kế một máy tính dùng các rơ-le và đặt tên cho nó là "Mô hình K" (Model K) - chữ K ở đây là chữ cái đầu tiên của từ kitchen trong tiếng Anh, nghĩa là "nhà bếp", nơi ông lắp ráp máy tính của mình. Máy tính của ông có thể tính toán dùng phép tính cộng của hệ nhị phân.[4] Cơ quan Bell Labs vì thế đã ra lệnh và cho phép một chương trình nghiên cứu tổng thể được thi hành vào cuối năm 1938 dưới sự chỉ đạo của ông Stibitz. Máy tính số phức hợp (Complex Number Computer) của họ, được hoàn thành vào ngày 8 tháng 1 năm 1940, có thể giải trình số phức hợp. Trong một cuộc luận chứng tại hội nghị của Hội Toán học Mỹ (American Mathematical Society), được tổ chức tại Dartmouth College vào ngày 11 tháng 9 năm 1940, ông Stibitz đã có thể truyền lệnh cho Máy tính số phức hợp từ xa, thông qua đường dây điện thoại, bằng một máy điện báo đánh chữ (teletype). Đây là máy tính đầu tiên được sử dụng với phương pháp điều khiển từ xa dùng đường dây điện thoại. Một số thành viên tham gia hội nghị và được chứng kiến cuộc thuyết trình bao gồm John von Neumann, John Mauchly và Norbert Wiener, đã viết lại sự kiện này trong hồi ký của mình.[5][6][7]
+Bất cứ số nào cũng có thể biểu đạt được trong hệ nhị phân bằng một dãy đơn vị bit (binary digit, số ký nhị phân), do đó có thể được diễn giải bằng bất cứ một cơ cấu có khả năng thể hiện hai thể trạng biệt lập. Bản liệt kê những dãy ký tự sau đây cho phép sự giải nghĩa tương đồng với những giá trị số trong hệ nhị phân:
+Giá trị số biểu đạt trong mỗi trường hợp trên phụ thuộc vào giá trị mà nó được gán ghép để đại diện. Trong máy tính, những giá trị số được biểu hiện bằng hai hiệu điện thế khác nhau; trong đĩa từ tính (magnetic disk) thì chiều phân của các lưỡng cực từ có thể được dùng để biểu hiện hai giá trị này. Một giá trị biểu đạt trạng thái "dương", "có" hoặc "chạy" không có nghĩa là giá trị tương tự với số một trong hệ số, song nó còn tuỳ thuộc vào kiến trúc của hệ thống đang được dùng.
+Song hành với chữ số Ả Rập thường dùng, số nhị phân thường được biểu đạt bằng hai ký tự 0 và 1. Khi được viết, các số nhị phân thường được ký hiệu hóa gốc của hệ số. Những phương thức ký hiệu thường được dùng có thể liệt kê ở dưới đây:
+Khi nói, mỗi ký tự số của các giá trị số nhị phân thường được phát âm riêng biệt, để phân biệt chúng với số thập phân. Chẳng hạn, giá trị "100" nhị phân được phát âm là "một không không", thay vì "một trăm", để biểu đạt cụ thể tính nhị phân của giá trị đang nói đến, đồng thời đảm bảo sự chính xác trong việc truyền tin qua lại. Vì giá trị "100" tương đương với giá trị "4" trong hệ thập phân, nên nếu được truyền đạt là "một trăm" thì nó sẽ gây sự hỗn loạn trong tư duy.
+Cách đếm trong hệ nhị phân tương tự như cách đếm trong các hệ thống số khác. Bắt đầu bằng số ở hàng đơn vị với một ký tự, việc đếm số được khai triển dùng các ký tự cho phép để ám chỉ giá trị, theo chiều tăng lên. Hệ thập phân được đếm từ ký tự 0 đến ký tự 9, trong khi hệ nhị phân chỉ được dùng ký tự 0 và 1 mà thôi.
+Khi những ký tự cho một hàng đã dùng hết (như hàng đơn vị, hàng chục, hàng trăm trong hệ thập phân), thì con số tại hàng tiếp theo (về bên trái) được nâng giá trị lên một vị trí, và con số ở hàng hiện tại được hoàn trả lại vị trí đầu tiên dùng ký tự 0. Trong hệ thập phân, chu trình đếm tương tự như sau:
+Sau khi một con số đạt đến ký tự 9, thì con số ấy được hoàn trả lại vị trí ban đầu là số 0, đồng thời gây cho con số tiếp theo ở bên trái được nâng cấp lên một vị trí mới. Trong hệ nhị phân, quy luật đếm số tương đồng như trên cũng được áp dụng, chỉ khác một điều là số ký tự được dùng chỉ có 2 mà thôi, tức là ký tự 0 và 1 được dùng mà thôi. Vì vậy, khi một con số đã chuyển lên đến ký tự một trong hệ nhị phân, sự nâng cấp của giá trị bắt nó hoàn trả lại vị trí ban đầu, tức là số 0, và nâng cấp con số tiếp theo về bên trái lên một giá trị:
+Để đơn giản hoá hệ nhị phân, chúng ta có thể nghĩ như sau: Chúng ta dùng hệ thập phân. Điều này có nghĩa là các giá trị của mỗi hàng số (hàng đơn vị, hàng chục v.v..) chỉ được biểu đạt bởi một trong 10 ký tự mà thôi: 0, 1, 2, 3, 4, 5, 6, 7, 8, hoặc 9. Chúng ta ai cũng thông thuộc với những ký tự này và cách dùng của chúng trong hệ thập phân. Khi chúng ta đếm các giá trị, chúng ta bắt đầu bằng ký tự 0, luân chuyển nó đến ký tự 9. Chúng ta gọi nó là "một hàng".
+Với những con số ở trên trong một hàng, chúng ta có thể liên tưởng đến vấn đáp về tính nhân. Số 5 có thể hiểu là 5 × 100 (100=1) tương đương với 5 x 1, vì bất cứ một số nào có mũ 0 cũng đều bằng 1 (tất nhiên là loại trừ số 0 ra). Khi khai triển sang bên trái một vị trí, chúng ta nâng số mũ của 10 lên một giá trị, vì vậy để biểu đạt 50, chúng ta dùng phương pháp tương tự và số này có thể được viết như 5 x 101, hoặc đơn giản hơn 5 x 10.
+Khi chúng ta đã dùng hết các ký tự trong hệ thập phân, chúng ta chuyển vị trí sang bên trái và bắt đầu với số 1, đại diện cho hàng chục. Tiếp đó chúng ta hoàn trả hàng "đơn vị" về ký tự đầu tiên, số không.
+Hệ nhị phân có gốc 2, cũng hoạt động trên cùng một nguyên lý như hệ thập phân, song chỉ dùng 2 ký tự để đại diện cho hai giá trị: 0 và 1. Chúng ta bắt đầu bằng hàng "đơn vị", đặt số 0 trước tiên, rồi nâng cấp lên số 1. Khi đã lên đến số 1, chúng ta không còn ký tự nào nữa để tiếp tục biểu đạt những giá trị cao hơn, do vậy chúng ta phải đặt số 1 ở "hàng hai" (tương tự như hàng chục trong hệ thập phân), vì chúng ta không có ký tự "2" trong hệ nhị phân để biểu đạt giá trị này như chúng ta có thể làm được trong hệ thập phân.
+Trong hệ nhị phân, giá trị 10 có thể biểu đạt bằng hình thức tương tự như (1 x 21) + (0 x 20). Giá trị này bằng 2 trong hệ thập phân. Nhị phân sang thập phân tương đồng:
+Để quan sát công thức biến chuyển cụ thể từ hệ này sang hệ kia, xin xem thêm phần Phương pháp chuyển hệ dưới đây.
+Ngược lại, chúng ta có thể suy nghĩ theo một cách khác. Khi chúng ta đã dùng hết các ký tự trong hệ thống số, chẳng hạn dãy số "11111", chúng ta cộng thêm "1" vào phía bên trái và hoàn trả tất cả các con số ở vị trí bên phải về số "0", tạo thành 100000. Phương thức này cũng có thể dùng được cho các ký tự ở giữa dãy số. Chẳng hạn với dãy số 100111. Nếu chúng ta cộng thêm 1 vào số này, chúng ta phải chuyển vị trí về bên trái một vị trí bên cạnh các con số 1 trùng lặp (vị trí thứ tư), nâng cấp vị trí này từ số 0 lên số 1, rồi hoàn trả tất cả các con số 1 bên tay phải về vị trí số không, tạo thành 101000.
+Phép tính dùng trong hệ nhị phân cũng tương tự như các phép tính được áp dụng trong các hệ khác. Tính cộng, tính trừ, tính nhân và tính chia cũng có thể được áp dụng với các giá trị số nhị phân.
+Phép tính đơn giản nhất trong hệ nhị phân là tính cộng. Cộng hai đơn vị trong hệ nhị phân được làm như sau:
+Cộng hai số "1" với nhau tạo nên giá trị "10", tương đương với giá trị 2 trong hệ thập phân. Điều này xảy ra tương tự trong hệ thập phân khi hai số đơn vị được cộng vào với nhau. Nếu kết quả bằng hoặc cao hơn giá trị gốc (10), giá trị của con số ở hàng tiếp theo được nâng lên:
+Hiện tượng này được gọi là "nhớ" hoặc "mang sang", trong hầu hết các hệ thống số dùng để tính, đếm. Khi tổng số vượt lên trên gốc của hệ số, phương thức làm là "nhớ" một sang vị trí bên trái, thêm một hàng. Phương thức "nhớ" cũng hoạt động tương tự trong hệ nhị phân:
+Trong ví dụ trên, hai số được cộng với nhau: 011012 (13 thập phân) và 101112 (23 thập phân). Hàng trên cùng biểu đạt những số nhớ, hoặc mang sang. Bắt đầu bằng cột cuối cùng bên phải, 1 + 1 = 102. 1 được mang sang bên trái, và 0 được viết vào hàng tổng phía dưới, cột cuối cùng bên phải. Hàng thứ hai từ cột cuối cùng bên phải được cộng tiếp theo: 1 + 0 + 1 = 102; Số 1 lại được nhớ lại và mang sang, và số 0 được viết xuống dưới cùng. Cột thứ ba: 1 + 1 + 1 = 112. Lần này 1 được nhớ và mang sang hàng bên cạnh, và 1 được viết xuống hàng dưới cùng. Tiếp tục khai triển theo quy luật trên cho chúng ta đáp án cuối cùng là 1001002.
+Trong Đánh thức tài năng quyển 5, tập 22 đã ghi các kiến thức này.
+Phép tính trừ theo quy chế tương tự:
+Một đơn vị nhị phân được trừ với một đơn vị nhị phân khác như sau:
+Trừ hai số dương cũng tương tự như "cộng" một số âm với giá trị tương đồng của một số tuyệt đối; máy tính thường dùng ký hiệu Bù 2 để diễn đạt số có giá trị âm. Ký hiệu này loại trừ được nhu cầu bức thiết phải có một phương pháp làm phép trừ biệt lập. Xin xem thêm chi tiết trong chương mục Bù 2.
+Phép tính nhân trong hệ nhị phân cũng tương tự như phương pháp làm trong hệ thập phân. Hai số A và B được nhân với nhau bởi những tích số cục bộ: với mỗi con số ở B, tích của nó với số một con số trong A được tính và viết xuống một hàng mới, mỗi hàng mới phải chuyển dịch vị trí sang bên trái, hầu cho con số cuối cùng ở bên phải đứng cùng cột với vị trí của con số ở trong B đang dùng. Tổng của các tích cục bộ này cho ta kết quả tích số cuối cùng.
+Vì chỉ có hai con số trong hệ nhị phân, nên chỉ có 2 kết quả khả quan trong tích cục bộ:
+Ví dụ, hai số nhị phân 1011 và 1010 được nhân với nhau như sau:
+Xem thêm Phương pháp làm tính nhân của Booth.
+Tính chia nhị phân cũng tương tự như phép chia trong hệ thập phân.
+Ở đây ta có số bị chia là 110112, hoặc 27 trong số thập phân, số chia là 1012, hoặc 5 trong số thập phân. Cách làm tương tự với cách làm trong số thập phân. Ở đây ta lấy 3 số đầu của số bị chia 1102 để chia với số chia, tức là 1012, được 1, viết lên trên hàng kẻ. Kết quả này được nhân với số chia, và tích số được trừ với 3 số đầu của số bị chia. Số tiếp theo là một con số 1 được hạ xuống để tạo nên một dãy số có ba con số, tương tự với số lượng các con số của số chia:
+Quy luật trên được lặp lại với những hàng số mới, tiếp tục cho đến khi tất cả các con số trong số bị chia đã được dùng hết:
+Phân số của 110112 chia cho 1012 là 1012, như liệt kê phía trên đường kẻ, trong khi số dư còn lại được viết ở hàng cuối là 102. Trong hệ thập phân, 27 chia cho 5 được 5, dư 2.
+Mặc dù không liên quan trực tiếp đến sự nhận dạng của các ký tự trong hệ nhị phân, song các dãy số nhị phân có thể được thao tác dùng những toán tử trong logic Boole. Khi một dãy số trong hệ nhị phân được thao tác dùng các toán tử này, chúng ta gọi nó là Phép toán thao tác bit. Những thao tác dùng các toán tử AND (tương tự với tác động của chữ "và" trong lôgic, cả hai đơn vị so sánh phải là 1 thì mới cho kết quả 1), OR (tương tự với tác động của chữ "hoặc" trong lôgic, một trong hai đơn vị so sánh là 1 thì cho kết quả là 1), và XOR (nếu 2 bit được so sánh mà khác nhau thì kết quả bằng 1, giống nhau thì bằng 0) có thể được thi hành với từng cặp bit tương đồng trong một cặp số của hai số nhị phân. Thao tác của toán tử lôgic NOT (phép đổi ngược, 0 thành 1 và ngược lại) có thể được thi hành trên từng bit một trong một con số nhị phân. Đôi khi, những phép thao tác này được dùng làm những phương pháp cắt ngắn (làm nhanh) trong các thao tác số học, đồng thời chúng cũng cung cấp những lợi ích khác trong việc xử lý máy tính. Lấy ví dụ, loại bỏ bit cuối cùng (bên phải) trong một số nhị phân (còn được gọi là phép toán chuyển vị nhị phân - binary shifting) tương đương với phép chia 2 trong hệ thập phân, vì khi làm như vậy, giá trị của số giảm xuống một nửa. Xin xem thêm Phép toán thao tác bit.
+Phương pháp này có thể áp dụng để chuyển số từ bất cứ gốc nào, song bên cạnh đó còn có những phương thức tốt hơn cho những số là tích số của một mũ, với số nguyên 2, chẳng hạn như hệ bát phân (23), và hệ thập lục phân (24) liệt kê dưới đây.
+Trong các hệ thống số với giá trị của con số được định vị bởi vị trí của nó trong một dãy các ký hiệu con số, những con số ở vị trí thấp hơn, hoặc vị trí ít quan trọng hơn (ít quan trọng hơn là vì khi tính toán các số lớn và sai số xảy ra, mất những số này sẽ không quan trọng và không gây ảnh hưởng lớn đến kết quả tính toán, chẳng hạn số thập phân 10034 có thể được tính tròn số lại thành 10000 trong một thống kê dân số mà không gây ảnh hưởng lớn đến kết quả thống kê), thường có số mũ nhỏ hơn theo hệ số gốc (20 < 23). Số mũ đầu tiên, là một số kém hơn số lượng các chữ số, của một con số nào đó, bởi 1 giá trị. Một con số có 5 chữ số sẽ có số mũ đầu tiên bằng 4. Trong hệ thập phân, gốc của hệ là 10, vậy số cuối cùng ở bên trái của một số có 5 chữ số có số mũ là 4, được thể hiện là ở vị trí 104 (chục nghìn). Xem xét ví dụ sau:
+Phép nhân với gốc của hệ số trở thành một phép tính đơn giản. Vị trí của các chữ số được dịch sang bên trái một vị trí, và số 0 được thêm vào ở phía bên phải của dãy các con số. Ví dụ 9735 nhân 10 bằng 97350. Một cách định giá trị của một dãy các con số, khi một con số được cộng vào sau con số cuối cùng, bằng cách nhân tất cả các chữ số trước con số cuối cùng ấy với gốc của hệ, trừ số cuối cùng ra, rồi cộng với con số ấy sau cùng. 97352 = 9735 x 10 + 2. Một ví dụ trong hệ nhị phân là 11011001112 = 1101100112 x 2 + 1. Đây chính là mấu chốt của phép biến đổi hệ số. Trong mỗi bước làm, chúng ta viết xuống con số sẽ phải đổi hệ theo công thức 2 × k + 0 hoặc 2 × k + 1 với một số nguyên k nào đó, và nó sẽ trở thành một số mới mà chúng ta muốn đổi.
+Do vậy phương pháp biến đổi một số nguyên, ở hệ thập phân sang hệ nhị phân tương đương, có thể được tiến hành bằng cách chia số này cho 2, và những số dư được viết xuống vào hàng (đơn vị) của nó. Kết quả lại tiếp tục được chia 2, và số dư lại được viết xuống vào hàng (chục) của nó. Phương thức này được tiếp tục nhắc lại cho đến khi thương số của phép chia là 0.
+Ví dụ, 118, trong hệ thập phân là:
+Lược trình các con số dư theo thứ tự từ dưới lên trên, cho chúng ta một số nhị phân 11101102.
+Để biến đổi một số nhị phân sang hệ thập phân, chúng làm ngược lại. Bắt đầu từ bên trái, nhân đôi kết quả, rồi cộng con số bên cạnh cho đến khi không còn con số nào nữa. Lấy ví dụ để đổi 1100101011012 sang hệ thập phân:
+Kết quả là 3245.
+Phần phân số trong một số tự nhiên được biến đổi với cùng một phương pháp, dựa vào phép toán chuyển vị nhị phân để tăng gấp đôi hoặc giảm xuống một nửa giá trị của con số.
+Với phân số nhị phân có giá trị "0,110101101012", giá trị của con số đầu tiên của phần thập phân là 
+
+
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}{\frac {1}{2}}\end{matrix}}}
+
+, của con số thứ hai là 
+
+
+
+
+
+
+
+(
+
+
+1
+2
+
+
+
+)
+
+2
+
+
+=
+
+
+1
+4
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}({\frac {1}{2}})^{2}={\frac {1}{4}}\end{matrix}}}
+
+, vân vân. Vậy nếu chúng ta có giá trị 1 ngay sau dấu phẩy thì giá trị của số thập phân ít nhất phải là 
+
+
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}{\frac {1}{2}}\end{matrix}}}
+
+, và tương tự ngược lại. Nếu chúng ta gấp đôi giá trị của con số đó lên thì giá trị của số phải ít nhất là 1. Điều này khiến chúng ta liên tưởng đến một thuật toán: liên tục nhân đôi con số chúng ta cần biến đổi, ghi lại kết quả nếu kết quả ít nhất là 1, nhưng vứt đi phần số nguyên.
+Ví dụ: 
+
+
+
+
+
+
+
+(
+
+
+1
+3
+
+
+)
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}({\frac {1}{3}})\end{matrix}}}
+
+, trong nhị phân là:
+Vì vậy phần phân số nhắc đi nhắc lại 0,333... tương đương với phần phân số nhắc đi nhắc lại trong hệ nhị phân 0,0101....
+hoặc lấy ví dụ số 0,110, trong hệ nhị phân là:
+Đây cũng là một phân số vô hạn tuần hoàn 0,000110011.... Có một điều đáng ngạc nhiên là có những phân số thập phân không tuần hoàn nhưng khi chuyển sang nhị phân, nó lại trở thành một phân số tuần hoàn. Chính vì lý do này mà nhiều người thấy ngạc nhiên khi họ kiểm nghiệm thấy phép cộng 0,1 +... + 0,1 (gồm 10 số hạng) khác với giá trị một trong khi giải toán dùng phép toán phân số (floating point arithmetic). Thực tế cho thấy, phân số nhị phân chỉ không tuần hoàn khi dạng thập phân của nó là thương của phép chia giữa một số nguyên và lũy thừa cơ số 
+
+
+
+2
+(
+
+
+1
+2
+
+
+,
+
+
+1
+4
+
+
+,
+
+
+3
+8
+
+
+.
+.
+.
+)
+
+
+{\displaystyle 2({\frac {1}{2}},{\frac {1}{4}},{\frac {3}{8}}...)}
+
+ chứ không phải giữa một số nguyên và bội của 
+
+
+
+10
+(
+
+
+1
+10
+
+
+,
+
+
+3
+100
+
+
+.
+.
+.
+)
+.
+
+
+{\displaystyle 10({\frac {1}{10}},{\frac {3}{100}}...).}
+Phương pháp biến đổi sau cùng là cách đổi phân số nhị phân sang thập phân. Khó khăn duy nhất là trường hợp của những phân số tuần hoàn, ngoài ra, phương pháp này có thể được thực hiện bằng cách dịch vị trí của dấu thập phân, làm tròn thành số nguyên, biến đổi như cách ở trên, sau đó chia với số mũ của 2 tương ứng trong hệ thập phân. Lấy ví dụ:
+Một cách khác để biến đổi hệ nhị phân sang thập phân nhanh hơn, đối với những người đã quen thuộc với hệ thập lục phân, là làm bằng cách gián tiếp, đầu tiên đổi (
+
+
+
+x
+
+
+{\displaystyle x}
+
+ trong hệ nhị phân) sang (
+
+
+
+x
+
+
+{\displaystyle x}
+
+ trong hệ thập lục phân), rồi đổi (
+
+
+
+x
+
+
+{\displaystyle x}
+
+ trong hệ thập lục phân) sang (
+
+
+
+x
+
+
+{\displaystyle x}
+
+ hệ thập phân).
+Số nhị phân có thể đổi sang hệ cơ số 32. Do 32 = 25. Phải cần 5 ký tự số để biểu đạt dễ dàng.
+Số nhị phân có thể đổi được sang hệ thập lục phân đôi chút dễ dàng hơn. Sự dễ dàng này là do gốc của hệ thập lục phân (16) là số mũ của gốc hệ nhị phân (2). Cụ thể hơn 16 = 24. Vậy chúng ta phải cần 4 ký tự số trong hệ nhị phân để có thể biểu đạt được một ký tự số trong hệ thập lục phân.
+Bảng liệt kê sau đây chỉ ra cho chúng ta từng ký tự số của hệ thập lục phân, cùng với giá trị tương ứng của nó trong hệ thập phân, và một dãy bốn ký tự số tương đương trong hệ nhị phân.
+Để biến đổi từ hệ thập lục phân sang số nhị phân tương đương, chúng ta chỉ đơn giản thay thế những dãy ký tự số tương đương trong hệ nhị phân:
+Để biến đổi một số nhị phân sang hệ thập lục phân tương đương, chúng ta phải phân nhóm các ký tự thành nhóm của bốn ký tự số (nhóm bốn con số). Nếu số lượng của các con số không phải là bội số của 4 (4, 8, 16...), thì chúng ta chỉ cần thêm các số 0 vào phía bên trái của con số, còn gọi là phép độn thêm số (padding). Chẳng hạn:
+Để biến đổi một số thập lục phân sang số thập phân tương đương, chúng ta nhân mỗi giá trị thập phân của từng con số trong số thập lục phân với số mũ của 16, rồi tìm tổng của các giá trị:
+Số nhị phân cũng có thể được biến đổi sang hệ bát phân một cách dễ dàng, vì bát phân dùng gốc 8, và cũng là số mũ của 2 (chẳng hạn 23, vậy số bát phân cần 3 ký tự số nhị phân để biểu đạt trọn vẹn một số bát phân). Sự tương ứng giữa các số bát phân và các số nhị phân cũng giống như sự tương đương với tám con số đầu tiên của hệ thập lục phân, như đã liệt kê trên bảng trước đây. Số nhị phân 000 tương đương với số bát phân 0, số nhị phân 111 tương đương với số bát phân 7, và tương tự.
+Phương pháp đổi bát phân sang nhị phân cũng tương tự như cách làm đối với hệ thập lục phân:
+và từ nhị phân sang bát phân:
+từ bát phân sang thập phân:
+Những số không phải là số nguyên có thể được biểu thị bằng số mũ âm, và dùng dấu tách biệt phân số (dấu "phẩy") làm cho chúng biệt lập khỏi các con số khác. Lấy ví dụ, số nhị phân 11,012 có nghĩa là:
+Tổng số là 3,25 trong hệ thập phân.
+Tất cả các nhị thức số hữu tỷ 
+
+
+
+
+
+p
+
+2
+
+a
+
+
+
+
+
+
+{\displaystyle {\frac {p}{2^{a}}}}
+
+ đều có một số nhị phân hữu hạn— Biểu thức nhị phân có một dãy số giới hạn sau điểm chia phân số (radix point). Các số hữu tỷ khác cũng có biểu thị nhị phân (binary representation), song thay vì là một dãy số hữu hạn, một loạt dãy các con số hữu hạn được lặp đi lặp lại, theo một tiến trình vô hạn. Chẳng hạn:
+Hiện tượng biểu thị nhị phân cho một phân thức có thể là một dãy số hữu hạn (terminating) hoặc là một dãy số vô hạn cũng được thấy trong các hệ số dựa trên cơ số khác (radix-based numeral systems). Xem thêm phần giải thích như trong bản phân tích về hệ thập phân. Một biểu hiện tương tự các cách biểu thị phân số hữu hạn, dựa vào thực tế 0,111111... là tổng của cấp số nhân (geometric series) 2−1 + 2−2 + 2−3 +... tức là 1.
+Số nhị phân vừa không phải là số hữu hạn, cũng không phải là số vô hạn thì được gọi là số vô tỷ (irrational number). Chẳng hạn:

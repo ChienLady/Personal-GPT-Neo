@@ -1,0 +1,10 @@
+Bài viết: Kỷ nguyên (thiên văn học)
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Trong thiên văn học, một kỷ nguyên là một khoảng thời gian, dùng như là một điểm tham chiếu cho một số lượng các sự kiện thiên văn có thời gian khác nhau, như các tọa độ thiên văn, hay tham số quỹ đạo elíp của một thiên thể, khi những thành phần này (thông thường) gặp phải nhiễu loạn và thay đổi theo thời gian.[1]
+J2000.0 (hay J2000) là một thời điểm thường dùng để lấy mốc cho việc tính thời gian trong thiên văn học.
+Nó là ngày Julius 2451545.0 TT, hay vào 12 giờ trưa TT ngày 1 tháng 1 năm 2000. Nó tương đương với 11:59:27.816 TAI ngày 1 tháng 1 năm 2000 và cũng là 11:58:55.816 UTC ngày 1 tháng 1 năm 2000.
+Vị trí của sao trên bầu trời, theo hệ tọa độ xích đạo thay đổi chậm do hiện tượng tuế sai của trục quay Trái Đất. Việc định vị các thiên thể, vốn dựa vào nền sao, đều cần được ghi rõ là dựa vào vị trí sao của thời điểm nào. Trong quá khứ, các nhà thiên văn đã dùng thời điểm B1950.0 trước khi dùng J2000.0.
+Thời điểm J2000 cho phép xác định xích đạo và phương xuân phân trung bình tương ứng với thời điểm này. Hệ tọa độ gắn với xích đạo và phương xuân phân này được gọi là hệ tọa độ J2000. Tên của hệ tọa độ này hiện nay được gọi chính xác hơn là Hệ quy chiếu Thiên văn Quốc tế (ICRS). Trong hệ này, xích đạo và phương xuân phân được tính trung bình do hiện tượng chương động hay các nhiễu loạn bậc cao được làm trung bình hay bỏ qua. Điều này khiến cực Trái Đất tại thời điểm J2000.0 (giá trị đo đạc tại đúng thời điểm này) không thực sự trùng với cực của hệ tọa độ J2000 (giá trị tính toán trung bình).
+Chữ "J" muốn chỉ rằng đây là thời điểm Julius, không phải thời điểm Bessel.
+(bằng tiếng Anh)

@@ -1,0 +1,413 @@
+Bài viết: Bảo toàn năng lượng
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Trong vật lý và hóa học, định luật bảo toàn năng lượng nói rằng tổng năng lượng của một hệ cô lập là không đổi; tức là nó được bảo toàn theo thời gian.[1] Định luật này được đề xuất và thử nghiệm đầu tiên bởi Émilie du Châtelet. Ý nghĩa của nó là năng lượng không thể được tạo ra cũng như không thể bị phá hủy; thay vào đó, nó chỉ có thể được biến đổi từ dạng này sang dạng khác hoặc chuyển đổi từ vật này sang vật khác (hoặc cả hai). Ví dụ, năng lượng hóa học được chuyển đổi thành động năng khi một thanh thuốc nổ phát nổ. Nếu cộng thêm tất cả các dạng năng lượng được giải phóng trong vụ nổ, chẳng hạn như động năng và thế năng của các mảnh vỡ, cũng như nhiệt và âm thanh, người ta sẽ nhận được chính xác sự giảm năng lượng hóa học trong quá trình đốt cháy chất nổ. Theo vật lý cổ điển, bảo toàn năng lượng khác với bảo toàn khối lượng; tuy nhiên, thuyết tương đối đặc biệt cho thấy khối lượng có liên quan đến năng lượng, và ngược lại, bởi phương trình E=mc2, và khoa học hiện nay cho rằng toàn bộ năng-khối-lượng được bảo toàn. Về mặt lý thuyết, điều này ngụ ý rằng bất kỳ vật thể nào có khối lượng đều có thể tự chuyển đổi thành năng lượng thuần túy và ngược lại, mặc dù điều này được cho là chỉ có thể xảy ra trong điều kiện khắc nghiệt nhất của vật chất, như (đã) có khả năng tồn tại trong vũ trụ ngay sau Vụ Nổ lớn hoặc khi lỗ đen phát ra bức xạ Hawking.
+Định luật bảo toàn năng lượng có thể được chứng minh chặt chẽ bằng định lý Noether như là hệ quả của sự đối xứng dịch thời gian liên tục; tức là, từ thực tế là các định luật vật lý không thay đổi theo thời gian.
+Hệ quả của định luật bảo toàn năng lượng là một động cơ vĩnh cửu loại I không thể tồn tại, nghĩa là, không có hệ thống nào không có nguồn cung cấp năng lượng bên ngoài có thể cung cấp một lượng năng lượng vô hạn cho môi trường xung quanh.[2] Đối với các hệ thống không có đối xứng dịch thời gian, có thể không xác định được bảo toàn năng lượng. Các ví dụ bao gồm các không gian cong trong thuyết tương đối rộng [3] hoặc tinh thể thời gian trong vật lý vật chất ngưng tụ.[4][5][6][7]
+Các nhà triết học cổ đại thời xa xưa như Thales xứ Miletus k.   550 TCN có nói về sự bảo toàn của một chất cơ bản nào đó mà từ nó mọi thứ được tạo ra. Tuy nhiên, không có lý do cụ thể để xác định lý thuyết của họ với những gì chúng ta biết ngày nay về "khối-năng lượng" (ví dụ, Thales nghĩ rằng chất đó là nước). Empedocles (490-430 TCN) đã viết rằng trong hệ thống phổ quát của mình, bao gồm bốn nguyên tố (đất, không khí, nước, lửa), "không có gì tự tạo ra hoặc bị diệt vong";[8] thay vào đó, các yếu tố này phải chịu sự sắp xếp lại liên tục. Epicurus (k. 350 TCN) lại tin rằng mọi thứ trong vũ trụ bao gồm các đơn vị vật chất không thể chia cắt - tiền thân của 'nguyên tử' - và ông cũng có một số ý tưởng về sự cần thiết của bảo toàn, nói rằng "tổng số của sự vật vốn luôn là như nó đang là, và như vậy nó sẽ mãi là".[9][liên kết hỏng]
+Năm 1605, Simon Stevinus đã có thể giải quyết một số vấn đề tĩnh học dựa trên nguyên tắc chuyển động vĩnh viễn là bất khả.
+Năm 1639, Galileo đã công bố phân tích của mình về một số tình huống, bao gồm cả "con lắc bị gián đoạn" nổi tiếng, có thể được mô tả (theo ngôn ngữ hiện đại) là chuyển đổi thế năng thành động năng và ngược lại. Về cơ bản, ông chỉ ra rằng một vật chuyển động sẽ lên tới chiều cao bằng với chiều cao mà từ đó nó rơi xuống, và sử dụng quan sát này để suy ra ý tưởng về quán tính. Khía cạnh đáng chú ý của quan sát này là chiều cao mà một vật chuyển động có thể lên tới trên một bề mặt không ma sát không phụ thuộc vào hình dạng của bề mặt.
+Năm 1669, Christiaan Huygens công bố luật va chạm của ông. Trong số các đại lượng ông liệt kê là bất biến trước và sau va chạm của các vật thể, có tổng của mô men tuyến tính cũng như tổng động năng của chúng. Tuy nhiên, sự khác biệt giữa va chạm đàn hồi và không đàn hồi không được hiểu rõ tại thời điểm đó. Điều này dẫn đến tranh chấp giữa các nhà nghiên cứu sau này về việc đại lượng được bảo toàn nào là cơ bản hơn (trong hai đại lượng: động lượng và năng lượng). Trong Horologium Oscillatorium, ông đã đưa ra một tuyên bố rõ ràng hơn nhiều về chiều cao của một cơ thể đang chuyển động, và kết nối ý tưởng này với sự bất khả thi của một chuyển động vĩnh viễn. Nghiên cứu của Huygens về động lực học của chuyển động con lắc dựa trên một nguyên tắc duy nhất: trọng tâm của một vật nặng không thể tự nâng lên.
+Thực tế là động năng là vô hướng, không giống như động lượng tuyến tính là một vectơ, và do đó dễ dàng làm việc hơn đã không thoát khỏi sự chú ý của Gottfried Wilhelm Leibniz. Đó là Leibniz trong những năm 1676-1689, người đầu tiên đã thử một công thức toán học của loại năng lượng được kết nối với chuyển động (động năng). Sử dụng công Huygens' va chạm, Leibniz nhận thấy rằng trong nhiều hệ thống cơ khí (một số vật có khối lượng, mi mỗi với vận tốc vi),
+∑
+
+i
+
+
+
+m
+
+i
+
+
+
+v
+
+i
+
+
+2
+
+
+
+
+{\displaystyle \sum _{i}m_{i}v_{i}^{2}}
+được bảo toàn miễn là các vật không tương tác. Ông gọi số lượng này là vis viva hoặc lực lượng sống của hệ thống. Nguyên tắc này thể hiện một tuyên bố chính xác về sự bảo toàn gần đúng của động năng trong các tình huống không có ma sát. Nhiều nhà vật lý tại thời điểm đó, như Newton, cho rằng việc bảo toàn động lượng được duy trì ngay cả trong các hệ có ma sát, như được xác định bởi động lượng:
+∑
+
+i
+
+
+
+m
+
+i
+
+
+
+v
+
+i
+
+
+
+
+{\displaystyle \,\!\sum _{i}m_{i}v_{i}}
+là vis viva được bảo toàn. Sau đó, người ta đã chứng minh rằng cả hai đại lượng được bảo toàn đồng thời, với các điều kiện thích hợp như va chạm đàn hồi.
+Năm 1687, Isaac Newton xuất bản cuốn Principia của ông, được viết xoay quanh khái niệm lực và động lượng. Tuy nhiên, các nhà nghiên cứu đã nhanh chóng nhận ra rằng các nguyên tắc được nêu trong cuốn sách, trong khi tốt cho khối lượng điểm, không đủ để giải quyết các chuyển động của vật thể rắn và lỏng. Một số nguyên tắc khác cũng được yêu cầu.
+Định luật bảo toàn vis viva đã được phát biểu do bộ đôi cha con, Johann và Daniel Bernoulli. Người cha đã đưa ra nguyên tắc của công ảo như được sử dụng trong các thống kê trong toàn bộ năm 1715, trong khi người con dựa trên Hydrodynamica, được xuất bản năm 1738, theo nguyên tắc bảo toàn duy nhất này. Nghiên cứu của Daniel về việc mất đi vis viva của dòng nước chảy đã khiến ông xây dựng nguyên tắc Bernoulli, liên quan đến sự mất mát tỷ lệ thuận với sự thay đổi của áp lực thủy động lực học. Daniel cũng hình thành khái niệm về công việc và hiệu quả cho máy thủy lực; và ông đã đưa ra một lý thuyết động học về chất khí và liên kết động năng của các phân tử khí với nhiệt độ của khí.
+Sự tập trung vào vis viva của các nhà vật lý lục địa cuối cùng đã dẫn đến việc phát hiện ra các nguyên tắc điều khiển cơ học tĩnh, như nguyên lý D'Alembert, cơ học Lagrange và cơ học Hamilton.
+Émilie du Châtelet (1706 - 1749) đã đề xuất và thử nghiệm giả thuyết bảo toàn tổng năng lượng, khác với động lượng. Lấy cảm hứng từ các lý thuyết của Gottfried Leibniz, cô đã lặp lại và công khai một thí nghiệm ban đầu được phát minh bởi Gravesande của Willem vào năm 1722, trong đó các quả bóng được thả từ các độ cao khác nhau vào một tấm đất sét mềm. Động năng của mỗi quả bóng - được biểu thị bằng số lượng vật chất bị dịch chuyển - được hiển thị tỷ lệ với bình phương vận tốc. Sự biến dạng của đất sét đã được tìm thấy tỷ lệ thuận với chiều cao mà từ đó các quả bóng được thả xuống, bằng với năng lượng tiềm năng ban đầu. Các công nhân trước đó, bao gồm Newton và Voltaire, đều tin rằng "năng lượng" (theo như họ hiểu khái niệm này) không khác biệt với động lượng và do đó tỷ lệ thuận với vận tốc. Theo cách hiểu này, sự biến dạng của đất sét phải tỷ lệ thuận với căn bậc hai của chiều cao mà từ đó các quả bóng được thả xuống. Trong vật lý cổ điển công thức đúng là 
+
+
+
+
+E
+
+k
+
+
+=
+
+
+1
+2
+
+
+m
+
+v
+
+2
+
+
+
+
+{\displaystyle E_{k}={\frac {1}{2}}mv^{2}}
+
+, Ở đâu 
+
+
+
+
+E
+
+k
+
+
+
+
+{\displaystyle E_{k}}
+
+ là động năng của một vật, 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ khối lượng của nó và 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ tốc độ của nó. Trên cơ sở này, du Châtelet đề xuất rằng năng lượng phải luôn có cùng kích thước dưới mọi hình thức, điều cần thiết để có thể liên kết nó dưới các hình thức khác nhau (động học, thế năng, nhiệt lượng).[10][11]
+Các kỹ sư như John Smeaton, Peter Ewart, Carl Holtzmann, Gustave-Adolphe Hirn và Marc Seguin nhận ra rằng bảo toàn động lượng một mình là không đủ để tính toán thực tế và sử dụng nguyên lý của Leibniz. Nguyên tắc này cũng được một số nhà hóa học như William Hyde Wollaston chỉ ra. Các học giả như John Playfair đã nhanh chóng chỉ ra rằng động năng rõ ràng không được bảo toàn. Điều này là hiển nhiên đối với một phân tích hiện đại dựa trên định luật nhiệt động lực học thứ hai, nhưng trong thế kỷ 18 và 19, số phận của năng lượng bị mất vẫn chưa được biết.
+Dần dần, người ta nghi ngờ rằng sức nóng chắc chắn được tạo ra bởi chuyển động dưới ma sát là một dạng khác của vis viva. Năm 1783, Antoine Lavoisier và Pierre-Simon Laplace đã xem xét hai lý thuyết cạnh tranh của lý thuyết vis viva và caloric.[12] Các quan sát về sự sinh nhiệt năm 1798 của Rumford trong quá trình nhàm chán của pháo đã tăng thêm trọng lượng cho quan điểm rằng chuyển động cơ học có thể được chuyển thành nhiệt và (quan trọng là) chuyển đổi là định lượng và có thể dự đoán được (cho phép hằng số chuyển đổi phổ quát giữa động năng và nhiệt). Vis viva sau đó bắt đầu được gọi là năng lượng, sau khi thuật ngữ này lần đầu tiên được Thomas Young sử dụng theo nghĩa đó vào năm 1807.
+Việc hiệu chỉnh lại vis viva thành
+1
+2
+
+
+
+∑
+
+i
+
+
+
+m
+
+i
+
+
+
+v
+
+i
+
+
+2
+
+
+
+
+{\displaystyle {\frac {1}{2}}\sum _{i}m_{i}v_{i}^{2}}
+có thể hiểu là chuyển đổi động năng sang công, phần lớn là kết quả của Gaspard-Gustave Coriolis và Jean-Victor Poncelet trong giai đoạn 1819-1839. Cái trước gọi là quantité de travail (số lượng công việc) và cái sau, travail mécanique (công việc cơ khí), và cả hai đều tập trung sử dụng nó trong tính toán kỹ thuật.
+Trong một bài báo Über die Natur der Wärme (tiếng Đức "Về bản chất của nhiệt"), được xuất bản trên tờ Zeitschrift für Physik năm 1837, Karl Friedrich Mohr đã đưa ra một trong những tuyên bố chung đầu tiên về học thuyết bảo toàn năng lượng bằng từ ngữ: "ngoài 54 nguyên tố hóa học đã biết, chỉ có một tác nhân trong thế giới vật lý, và đây được gọi là Kraft [năng lượng hoặc công]. Nó có thể xuất hiện, tùy theo hoàn cảnh, như chuyển động, ái lực hóa học, sự gắn kết, điện, ánh sáng và từ tính; và từ bất kỳ một trong những hình thức này, nó có thể được chuyển đổi thành bất kỳ hình thức nào khác. "
+Một giai đoạn quan trọng trong sự phát triển của nguyên lý bảo toàn hiện đại là trình diễn sự tương đương cơ học của nhiệt. Lý thuyết nhiệt lượng duy trì rằng nhiệt không thể được tạo ra cũng như không bị phá hủy, trong khi bảo toàn năng lượng đòi hỏi nguyên tắc trái ngược là nhiệt và công cơ học có thể thay thế cho nhau.
+Vào giữa thế kỷ thứ mười tám, Mikhail Lomonosov, một nhà khoa học người Nga, đã đưa ra giả thuyết về nhiệt động lực học của mình, đã bác bỏ ý tưởng về nhiệt lượng. Thông qua kết quả nghiên cứu thực nghiệm, Lomonosov đã đi đến kết luận rằng nhiệt không được truyền qua các hạt của chất lỏng nhiệt.
+Năm 1798, Bá tước Rumford (Benjamin Thompson) đã thực hiện các phép đo nhiệt ma sát sinh ra trong các khẩu pháo và phát triển ý tưởng rằng nhiệt là một dạng của động năng; các phép đo của ông đã bác bỏ lý thuyết nhiệt lượng, nhưng không đủ chính xác để phản bác các nghi ngờ.
+Nguyên lý tương đương cơ học lần đầu tiên được bác sĩ phẫu thuật người Đức Julius Robert von Mayer đưa ra dưới dạng hiện đại vào năm 1842.[13] Mayer đã đưa ra kết luận này trong chuyến đi đến Đông Ấn Hà Lan, nơi ông thấy rằng máu của bệnh nhân của mình có màu đỏ thẫm hơn vì họ tiêu thụ ít oxy hơn và do đó ít năng lượng hơn để duy trì nhiệt độ cơ thể trong điều kiện khí hậu nóng hơn. Ông phát hiện ra rằng nhiệt và công cơ học là cả hai dạng năng lượng và vào năm 1845, sau khi nâng cao kiến thức về vật lý, ông đã xuất bản một chuyên khảo về mối quan hệ định lượng giữa chúng.[14]
+Trong khi đó, vào năm 1843, James Prescott Joule đã độc lập phát hiện ra sự tương đương cơ học trong một loạt các thí nghiệm. Trong nổi tiếng nhất, bây giờ được gọi là "bộ máy Joule", trọng lượng giảm dần gắn liền với một chuỗi đã khiến một mái chèo chìm trong nước xoay. Ông đã chỉ ra rằng năng lượng hấp dẫn bị mất bởi trọng lượng giảm dần bằng với năng lượng bên trong mà nước thu được thông qua ma sát với mái chèo.
+Trong giai đoạn 1840-1843, công việc tương tự được thực hiện bởi kỹ sư Ludwig A. Cold, mặc dù nó ít được biết đến bên ngoài quê hương Đan Mạch của ông.
+Khám phá của Joule và Mayer đều bị kháng cự và bỏ mặc nhưng khám phá của Joule cuối cùng đã thu hút được sự công nhận rộng rãi hơn.
+Năm 1844, William Robert Grove đã đưa ra mối quan hệ giữa cơ học, nhiệt, ánh sáng, điện và từ tính bằng cách coi tất cả chúng là biểu hiện của một "lực" (năng lượng theo thuật ngữ hiện đại). Năm 1846, Grove công bố lý thuyết của mình trong cuốn sách Tương quan lực lượng vật lý.[15] Năm 1847, dựa trên tác phẩm trước đó của Joule, Sadi Carnot và Émile Clapeyron, Hermann von Helmholtz đã đưa ra kết luận tương tự như Grove và công bố lý thuyết của mình trong cuốn sách Über die Erhaltung der Kraft (On the Conservation of Force, 1847).[16] Sự chấp nhận hiện đại nói chung của nguyên tắc tương đương cơ học bắt nguồn từ ấn phẩm này.
+Năm 1850, William Rankine lần đầu tiên sử dụng cụm từ định luật bảo toàn năng lượng cho nguyên tắc này.[17]
+Năm 1877, Peter Guthrie Tait tuyên bố rằng nguyên tắc này bắt nguồn từ Isaac Newton, dựa trên một bài đọc sáng tạo về các mệnh đề 40 và 41 của Philosophiae Naturalis Principia Mathematica. Điều này hiện được coi là một ví dụ về lịch sử Whig.[18]
+Vật chất bao gồm các nguyên tử và những gì tạo nên các nguyên tử. Vật chất có khối lượng nội tại hoặc khối lượng nghỉ. Trong phạm vi hạn chế của kinh nghiệm được công nhận của thế kỷ XIX, người ta thấy rằng phần còn lại như vậy được bảo toàn. Lý thuyết tương đối đặc biệt năm 1905 của Einstein đã chỉ ra rằng khối lượng nghỉ tương ứng với một lượng năng lượng nghỉ tương đương. Điều này có nghĩa là khối lượng nghỉ có thể được chuyển đổi thành hoặc từ các dạng năng lượng (phi vật chất) tương đương, ví dụ như động năng, thế năng và năng lượng bức xạ điện từ. Khi điều này xảy ra, như được công nhận trong kinh nghiệm thế kỷ XX, khối lượng nghỉ không được bảo toàn, không giống như tổng khối lượng hoặc tổng năng lượng. Tất cả các dạng năng lượng đóng góp vào tổng khối lượng và tổng năng lượng.
+Ví dụ, mỗi electron và positron đều có khối lượng nghỉ. Chúng có thể diệt vong cùng nhau, chuyển đổi năng lượng nghỉ kết hợp của chúng thành các photon có năng lượng bức xạ điện từ, nhưng không có khối lượng nghỉ. Nếu điều này xảy ra trong một hệ cô lập không giải phóng các photon hoặc năng lượng của chúng ra môi trường bên ngoài, thì tổng khối lượng cũng như tổng năng lượng của hệ sẽ không thay đổi. Năng lượng bức xạ điện từ được tạo ra đóng góp tương đương với quán tính (và bất kỳ trọng lượng nào) của hệ thống cũng như khối lượng còn lại của electron và positron trước khi chúng bị phá hủy. Tương tự như vậy, các dạng năng lượng phi vật chất có thể bị tiêu diệt thành vật chất, có khối lượng nghỉ.
+Do đó, bảo toàn năng lượng (tổng, bao gồm cả năng lượng vật chất hoặc năng lượng nghỉ) và bảo toàn khối lượng (năng lượng tổng, không chỉ năng lượng nghỉ), mỗi cái vẫn giữ như một định luật (tương đương). Trong thế kỷ 18, những điều này đã xuất hiện như hai định luật dường như khác biệt.
+Phát hiện vào năm 1911 rằng các electron phát ra trong phân rã beta có liên tục chứ không phải là phổ rời rạc có vẻ mâu thuẫn với bảo toàn năng lượng, theo giả định hiện tại rằng phân rã beta là sự phát xạ đơn giản của electron từ hạt nhân.[19][20] Vấn đề này cuối cùng đã được giải quyết vào năm 1933 bởi Enrico Fermi, người đã đề xuất mô tả chính xác về sự phân rã beta vì sự phát xạ của cả electron và antineutrino, mang theo năng lượng bị thiếu rõ ràng.[21][22]
+Đối với một hệ thống nhiệt động khép kín, định luật nhiệt động lực học đầu tiên có thể được nêu là:
+δ
+Q
+=
+
+d
+
+U
++
+δ
+W
+
+
+{\displaystyle \delta Q=\mathrm {d} U+\delta W}
+
+ hoặc tương đương 
+
+
+
+
+d
+
+U
+=
+δ
+Q
+−
+δ
+W
+,
+
+
+{\displaystyle \mathrm {d} U=\delta Q-\delta W,}
+trong đó 
+
+
+
+δ
+Q
+
+
+{\displaystyle \delta Q}
+
+ là lượng năng lượng được thêm vào hệ thống bằng một quá trình gia nhiệt, 
+
+
+
+δ
+W
+
+
+{\displaystyle \delta W}
+
+ là lượng năng lượng bị mất bởi hệ thống do công được thực hiện bởi hệ thống trên môi trường xung quanh và 
+
+
+
+
+d
+
+U
+
+
+{\displaystyle \mathrm {d} U}
+
+ là sự thay đổi năng lượng bên trong của hệ thống.
+Các before trước các thuật ngữ nhiệt và công việc được sử dụng để chỉ ra rằng chúng mô tả sự gia tăng năng lượng sẽ được giải thích hơi khác so với 
+
+
+
+
+d
+
+U
+
+
+{\displaystyle \mathrm {d} U}
+
+ sự gia tăng của năng lượng bên trong (xem sự khác biệt không chính xác). Công việc và nhiệt liên quan đến các loại quy trình thêm hoặc bớt năng lượng vào hoặc từ một hệ thống, trong khi năng lượng bên trong 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ là một tính chất của một trạng thái cụ thể của hệ thống khi nó ở trạng thái cân bằng nhiệt động không thay đổi. Do đó, thuật ngữ "năng lượng nhiệt" cho 
+
+
+
+δ
+Q
+
+
+{\displaystyle \delta Q}
+
+ có nghĩa là "lượng năng lượng được thêm vào như là kết quả của việc sưởi ấm" thay vì đề cập đến một dạng năng lượng cụ thể. Tương tự như vậy, thuật ngữ "năng lượng làm việc" cho 
+
+
+
+δ
+W
+
+
+{\displaystyle \delta W}
+
+ có nghĩa là "lượng năng lượng bị mất là kết quả của công việc". Do đó, người ta có thể nói lượng năng lượng bên trong được sở hữu bởi một hệ thống nhiệt động mà người ta biết hiện đang ở một trạng thái nhất định, nhưng người ta không thể biết, chỉ từ kiến thức về trạng thái hiện tại, bao nhiêu năng lượng trong quá khứ đã chảy vào hoặc thoát ra hệ thống là kết quả của việc nó được làm nóng hoặc làm mát, cũng như kết quả của công việc được thực hiện trên hoặc bởi hệ thống.
+Entropy là một chức năng của trạng thái của một hệ thống cho biết những hạn chế về khả năng chuyển đổi nhiệt sang công.
+Đối với một hệ thống nén đơn giản, công việc được thực hiện bởi hệ thống có thể được viết thành:
+δ
+W
+=
+P
+
+
+d
+
+V
+,
+
+
+{\displaystyle \delta W=P\,\mathrm {d} V,}
+trong đó 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ là áp lực và 
+
+
+
+d
+V
+
+
+{\displaystyle dV}
+
+ là một thay đổi nhỏ trong khối lượng của hệ thống, mỗi biến là các biến hệ thống. Trong trường hợp giả tưởng trong đó quá trình được lý tưởng hóa và vô cùng chậm, để được gọi là bán tĩnh, và được coi là có thể đảo ngược, nhiệt được truyền từ một nguồn có nhiệt độ vô cùng cao hơn nhiệt độ hệ thống, sau đó năng lượng nhiệt có thể được viết thành
+δ
+Q
+=
+T
+
+
+d
+
+S
+,
+
+
+{\displaystyle \delta Q=T\,\mathrm {d} S,}
+Ở đâu 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ là nhiệt độ và 
+
+
+
+
+d
+
+S
+
+
+{\displaystyle \mathrm {d} S}
+
+ là một thay đổi nhỏ trong entropy của hệ thống. Nhiệt độ và entropy là các biến trạng thái của một hệ thống.
+Nếu một hệ thống mở (trong đó khối lượng có thể được trao đổi với môi trường) có một số bức tường sao cho việc chuyển khối qua các bức tường cứng tách biệt với nhiệt và chuyển công việc, thì luật đầu tiên có thể được viết:[23]
+d
+
+U
+=
+δ
+Q
+−
+δ
+W
++
+
+u
+′
+
+
+d
+M
+,
+
+
+
+{\displaystyle \mathrm {d} U=\delta Q-\delta W+u'\,dM,\,}
+trong đó 
+
+
+
+d
+M
+
+
+{\displaystyle dM}
+
+ là khối lượng được thêm vào và 
+
+
+
+
+u
+′
+
+
+
+{\displaystyle u'}
+
+ là năng lượng bên trong trên một đơn vị khối lượng của khối lượng được thêm vào, được đo trong môi trường xung quanh trước quá trình.
+Việc bảo toàn năng lượng là một đặc điểm phổ biến trong nhiều lý thuyết vật lý. Từ quan điểm toán học, nó được hiểu là hệ quả của định lý Noether, được Emmy Noether phát triển vào năm 1915 và xuất bản lần đầu tiên vào năm 1918. Định lý nêu mọi đối xứng liên tục của một lý thuyết vật lý có một đại lượng bảo toàn liên quan; nếu tính đối xứng của lý thuyết là bất biến theo thời gian thì đại lượng được bảo toàn được gọi là "năng lượng". Định luật bảo toàn năng lượng là hệ quả của sự đối xứng dịch chuyển của thời gian; bảo toàn năng lượng được ngụ ý bởi thực tế thực nghiệm rằng các định luật vật lý không thay đổi theo thời gian. Về mặt triết học, điều này có thể được tuyên bố là "không có gì phụ thuộc vào thời gian mỗi lần". Nói cách khác, nếu hệ thống vật lý bất biến dưới sự đối xứng liên tục của dịch thời gian thì năng lượng của nó (là đại lượng liên hợp chính tắc với thời gian) được bảo toàn. Ngược lại, các hệ thống không bất biến theo thời gian (ví dụ, các hệ thống có năng lượng tiềm năng phụ thuộc thời gian) không thể hiện sự bảo toàn năng lượng   - trừ khi chúng ta xem xét chúng để trao đổi năng lượng với hệ thống khác, hệ thống bên ngoài để lý thuyết về hệ thống mở rộng trở thành bất biến thời gian một lần nữa. bảo toàn năng lượng cho các hệ hữu hạn có giá trị trong các lý thuyết vật lý như thuyết tương đối đặc biệt và lý thuyết lượng tử (bao gồm cả QED) trong không gian phẳng.
+Với việc phát hiện ra thuyết tương đối đặc biệt của Henri Poincaré và Albert Einstein, năng lượng được đề xuất là một thành phần của một vectơ 4 động lượng năng lượng. Mỗi trong bốn thành phần (một năng lượng và ba động lượng) của vectơ này được bảo toàn riêng biệt theo thời gian, trong bất kỳ hệ kín nào, như được thấy từ bất kỳ hệ qui chiếu quán tính nào. Cũng được bảo toàn là chiều dài vectơ (chỉ tiêu Minkowski), là phần còn lại của các hạt đơn lẻ và khối lượng bất biến cho các hệ hạt (trong đó mô men và năng lượng được tính riêng trước khi độ dài được tính toán xem bài báo về khối lượng bất biến).
+Năng lượng tương đối tính của một hạt lớn duy nhất chứa một thuật ngữ liên quan đến khối lượng nghỉ của nó bên cạnh động năng của chuyển động. Trong giới hạn của động năng bằng không (hoặc tương đương trong hệ qui chiếu nghỉ) của một hạt lớn, hoặc trong hệ qui chiếu tâm động lượng cho các vật hoặc hệ có động năng, tổng năng lượng của hạt hoặc vật (kể cả động năng nội tại của hệ) có liên quan đến khối lượng nghỉ của nó hoặc khối lượng bất biến của nó thông qua phương trình nổi tiếng 
+
+
+
+E
+=
+m
+
+c
+
+2
+
+
+
+
+{\displaystyle E=mc^{2}}
+
+.
+Do đó, quy luật bảo toàn năng lượng theo thời gian trong thuyết tương đối đặc biệt tiếp tục được duy trì, miễn là hệ qui chiếu của người quan sát không thay đổi. Điều này áp dụng cho tổng năng lượng của các hệ thống, mặc dù các nhà quan sát khác nhau không đồng ý với giá trị năng lượng. Cũng được bảo toàn và bất biến đối với tất cả các nhà quan sát, là khối lượng bất biến, là khối lượng và năng lượng hệ thống tối thiểu mà bất kỳ người quan sát nào có thể nhìn thấy, và được xác định bởi mối quan hệ xung lượng năng lượng.
+Trong thuyết tương đối rộng, bảo toàn động lượng của năng lượng không được xác định rõ trừ một số trường hợp đặc biệt. Động lượng năng lượng thường được biểu thị với sự trợ giúp của một giả hành động lực căng thẳng. Tuy nhiên, vì các giả ngẫu nhiên không phải là tenxơ, chúng không biến đổi sạch giữa các hệ qui chiếu. Nếu số liệu đang xem xét là tĩnh (nghĩa là không thay đổi theo thời gian) hoặc bằng phẳng không có triệu chứng (nghĩa là ở một khoảng cách vô tận cách xa không thời gian trông trống rỗng), thì bảo toàn năng lượng không có những cạm bẫy lớn. Trong thực tế, một số số liệu như chỉ số Friedmann về Lemaîtreọt Robertsonifer Walker không thỏa mãn những hạn chế này và bảo toàn năng lượng không được xác định rõ.[24] Lý thuyết tương đối rộng để lại câu hỏi liệu có sự bảo toàn năng lượng cho toàn bộ vũ trụ hay không.

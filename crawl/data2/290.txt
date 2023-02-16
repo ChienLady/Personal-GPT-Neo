@@ -1,0 +1,45 @@
+Bài viết: Danh sách ngôn ngữ theo tổng số người sử dụng
+Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
+###
+Trang này giúp liệt kê danh sách những ngôn ngữ phổ biến nhất trên thế giới hiện nay. Xin lưu ý rằng danh sách này có thể khác tùy theo cách định nghĩa một số từ. Điển hình là sự khác biệt giữa các từ "phương ngữ" (dialect) và "ngôn ngữ" (language) rất quan trọng.
+Một ví dụ là tiếng Ả Rập, có thể được xem là một ngôn ngữ hay một nhóm ngôn ngữ liên quan nhau. Quyển Niên giám thế giới, CIA World Factbook và Ethnologue, nguồn của các bảng dưới đây, xem mỗi thứ tiếng Ả Rập là một ngôn ngữ khác nhau. Nếu tất cả các tiếng nói này được xem là một ngôn ngữ thì nó sẽ đứng thứ tư với khoảng 215 triệu người nói.
+Tiếng Hoa cũng có tình trạng tương tự. Nếu tất cả mọi ngôn ngữ Hoa được tính là một ngôn ngữ, thì tiếng Hoa sẽ đứng đầu với 1,2 tỷ người nói. Nếu tính mỗi tiếng riêng ra thì năm loại tiếng Hoa có trong danh sách 25 ngôn ngữ đầu.
+Xin lưu ý rằng các danh sách này chỉ tính những người nói ngôn ngữ như tiếng mẹ đẻ. Hiện thời rất khó tính tổng số người nói một ngôn ngữ như một ngoại ngữ.
+Theo tạp chí Ethnologue (2020) của tổ chức SIL International thì dưới đây là danh sách các ngôn ngữ phổ biến nhất (tính cả người sử dụng là ngôn ngữ mẹ đẻ hoặc ngoại ngữ):
+Quyển CIA World Factbook ước lượng số người nói tiếng mẹ đẻ trong năm 2000 theo phần trăm dân số (họ ước lượng năm 2000 có 6,081 tỷ người [1] Lưu trữ 2005-08-31 tại Wayback Machine).
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+Tiếng Quan Thoại
+Tiếng Hindi
+Tiếng Anh
+Tiếng Tây Ban Nha
+Tiếng Bengal
+Tiếng Bồ Đào Nha
+Tiếng Nga
+Tiếng Nhật
+Tiếng Đức
+Tiếng Triều Tiên
+Tiếng Pháp
+14,37%
+6,02%
+5,61%
+5,59%
+3,4%
+2,75%
+2,63%
+2,06%
+1,64%
+1,28%
+1,27%
+Nguồn: CIA - The World Factbook -- World Lưu trữ 2006-12-27 tại Wayback Machine
+Nếu coi các số liệu trên đây là đúng thì số lượng người nói tiếng Hindi và tiếng Anh từ năm 1995 đến năm 2004 đã gia tăng đáng kể.
+Nguồn:  Ethnologue
