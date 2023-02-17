@@ -1,9 +1,0 @@
-Bài viết: ADEOS II
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-ADEOS II (Advanced Earth Observing Satellite 2) là vệ tinh quan sát Trái Đất [2] của NASDA, hợp tác với NASA và CNES, phóng vào tháng 12 năm 2002.[3] Tên tiếng Nhật là Midori 2. [4] ADEOS II tiếp tục sứ mệnh của ADEOS I phóng năm 1996. Hành trình kết thúc vào tháng 10 năm 2003 khi các tấm pin mặt trời của vệ tinh không hoạt động được.[5]
-NASDA đưa ra ba mục tiêu chính của sứ mệnh:[6]
-Thời gian dự án được đề xuất là 3 năm,[7] với mục tiêu kéo dài 5 năm.[8]
-Sứ mệnh ban đầu là đưa vệ tinh lên tên lửa H-II vào tháng 2/2002. Ủy ban Hoạt động Vũ trụ Nhật Bản hoãn sứ mệnh với lý do tàu tên lửa H-IIA mới phải thực hiện ba sứ mệnh thành công mới cho phép phóng vệ tinh ADEOS II.[9]
-Ngày 14 tháng 12 năm 2002, vệ tinh phóng thành công từ Trung tâm Vũ trụ Tanegashima trạm YLP-1, trên tàu H-IIA-202.[10] Trên vệ tinh trên tàu chứa thiết bị MicroLabsat và WEOS của Nhật Bản, FedSat của Úc.[4]
-Ngày 23 tháng 10 năm 2003, bảng điều khiển năng lượng mặt trời không hoạt động.[5] Lúc 2349 UTC, vệ tinh chuyển sang chế độ "tải nhẹ" do lỗi không xác định. Điều này nhằm giảm điện năng cung cấp tất cả các thiết bị quan sát để tiết kiệm năng lượng.Lúc 2355 UTC, liên lạc giữa vệ tinh và các trạm mặt đất cắt đứt, không thể điều khiển từ xa được nữa.[5] Những nỗ lực tiếp theo tải dữ liệu từ xa vào ngày 24 tháng 10 (lúc 0025 và 0205 UTC) cũng không thành công.[11]

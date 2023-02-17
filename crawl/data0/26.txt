@@ -1,6 +1,0 @@
-Bài viết: Wikidata
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-Wikidata được thành lập ngày 30 tháng 10 năm 2012 và là dự án mới đầu tiên của Wikimedia Foundation kể từ năm 2006.[4][5][6]
-Dự án nhận sự tài trợ của Viện Trí tuệ Nhân tạo Allen, Quỹ Gordon và Betty Moore, và Google Inc., với tổng kinh phí 1,3 triệu euro.[7][8]
-Wikidata là một cơ sở tri thức đa ngôn ngữ được chỉnh sửa cộng tác được tổ chức bởi Wikimedia Foundation. Đây là một nguồn dữ liệu mở phổ biến mà các dự án Wikimedia như Wikipedia có thể sử dụng, và bất kỳ ai khác, theo giấy phép phạm vi công cộng. Mô hình dữ liệu được sử dụng là Khung mô tả tài nguyên. Wikidata được cung cấp bởi phần mềm Wikibase.

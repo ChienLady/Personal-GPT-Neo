@@ -1,8 +1,0 @@
-Bài viết: AGILE (vệ tinh)
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-AGILE (Astro‐Rivelatore Gamma a Immagini Leggero) là một vệ tinh thiên văn tia X và tia gamma của Cơ quan Vũ trụ Ý (ASI).
-Nhiệm vụ của AGILE là quan sát các nguồn tia gamma trong vũ trụ. Các mục tiêu khoa học chính của Sứ mệnh AGILE bao gồm nghiên cứu về:[2] Hoạt động hạt nhân Galactic; Vụ nổ tia gamma; Nguồn tia X và tia gamma; Nguồn gamma không được xác định; Phát xạ gamma thiên hà khuếch tán; Khuếch tán phát xạ gamma ngoài thiên hà khuếch tán; và Vật lý cơ bản
-Dụng cụ của AGILE bao gồm một thiết bị dò tìm hình ảnh Gamma Ray (GRID) trong phạm vi 30 MeV - 50 GeV, một màn hình X quang siêu cứng (SA) nhạy cảm trong phạm vi năng lượng 18–60 keV, một Mini-Calorimeter (MCAL) -máy dò đốm sáng tia gamma nhạy cảm trong phạm vi năng lượng 350 keV - 100 MeV, [3] và Hệ thống chống trùng hợp ngẫu nhiên (AC), dựa trên máy ghi nhựa, để hỗ trợ triệt tiêu các sự kiện nền không mong muốn.
-SuperAGILE SA là một thiết bị dựa trên bộ bốn thiết bị thăm dò dải silicon, mỗi thiết bị được trang bị mặt nạ mã hóa một chiều. SA được thiết kế để phát hiện tín hiệu X-Ray từ các nguồn đã biết và các tín hiệu giống như bùng nổ. Nó cung cấp giám sát dài hạn của thông lượng và các tính năng quang phổ. MCAL cũng có thể phát hiện hiệu quả các vụ nổ bức xạ năng lượng cao trong dải năng lượng của nó.
-AGILE đã được phóng thành công vào ngày 23 tháng 4 năm 2007, từ cơ sở Ấn Độ của Sriharikota và được đưa vào quỹ đạo xích đạo với nền có hạt vũ trụ thấp. Vào ngày 23 tháng 4 năm 2007, ASI đã liên lạc thành công với AGILE; các tín hiệu của nó được thu thập bởi trạm mặt đất tại Trung tâm vũ trụ Broglio gần Malindi, Kenya và nó được đặt trong một chế độ hướng về mặt trời.[3]

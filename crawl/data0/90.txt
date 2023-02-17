@@ -1,5 +1,0 @@
-Bài viết: Danh sách danh sách
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-Danh sách là một bảng liệt kê một chiều, có thể có thứ tự, các khái niệm.
-Dưới đây là những danh sách có trong Wikipedia tiếng Việt.

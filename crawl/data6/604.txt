@@ -1,7 +1,0 @@
-Bài viết: Cơ cấu man
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-Cơ cấu man (hay malte, geneva) là cơ cấu biến chuyển động quay liên tục thành chuyển động quay gián đoạn nhờ trên khâu dẫn có chốt và trên khâu bị dẫn có những rãnh tiếp xúc không liên tục với nhau.
-Khâu dẫn 1 mang chốt 3 quay quanh tâm O1; khâu bị dẫn 2 là đĩa mang những rãnh 4 có thể quay quanh tâm O2. Khi khâu 1 quay liên tục, sẽ có lúc chốt trục 3 lọt vào rãnh 4 của đĩa 2 ở vị trí A và gạt đĩa này quay quanh O2 một góc đến khi chốt ra khỏi rãnh ở vị trí B thì đĩa 2 sẽ ngừng quay nhờ cung tròn CDE trên đĩa 1 tiếp xúc với cung tròn FGH trên đĩa 2. Lúc này rãnh kế tiếp trên đĩa 2 ở vị trí chờ chốt trên đĩa 1 vào để truyền động xảy ra liên tục.
-Trong quá trình chốt ở trong rãnh và truyền chuyển động cho nhau, quan hệ động học trong cơ cấu man hoàn toàn giống như quan hệ động học trong cơ cấu cu-lít (coulis).
-Có thể phân cơ cấu man ra hai loại chính: ăn khớp trong và ăn khớp ngoài.

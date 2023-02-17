@@ -1,4 +1,0 @@
-Bài viết: Hiệu điện thế
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-Hiệu điện thế hay điện áp (ký hiệu ∆U, thường được viết đơn giản là U, có đơn vị là đơn vị của điện thế: V, kV, mV, ...) là sự chênh lệch về điện thế giữa hai cực của 1 nguồn.[1] Hiệu điện thế giữa hai điểm trong điện trường tĩnh là đại lượng đặc trưng cho khả năng thực hiện công của điện trường khi có một điện tích di chuyển giữa hai điểm đó. Hiệu điện thế có thể đại diện cho nguồn năng lượng (lực điện), hoặc sự mất đi, sử dụng, hoặc năng lượng lưu trữ (giảm thế). Hiệu điện thế có thể được sinh ra bởi các điện trường tĩnh, dòng điện chạy qua từ trường, các trường từ thay đổi theo thời gian, hoặc sự kết hợp của 3 nguồn trên.[2][3] Dụng cụ để đo hiệu điện thế là: vôn kế, tĩnh điện kế...

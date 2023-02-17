@@ -1,4 +1,0 @@
-Bài viết: ISO 3166-2:AD
-Đường dẫn bài viết trên wikipedia: https://vi.wikipedia.org/wiki/Jack_Bauer
-###
-ISO 3166-2:AD là chuẩn ISO định nghĩa mã địa lý. Nó là tập con của ISO 3166-2 áp dụng cho Andorra. Mỗi mã hai phần bao gồm mã ISO 3166-1 cho Andorra (AD) và số 2 chữ số
